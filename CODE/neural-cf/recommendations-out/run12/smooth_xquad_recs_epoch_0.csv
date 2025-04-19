@@ -1,0 +1,3051 @@
+user,itemId,score,rank,category,title,genres
+0,2395,4.266859,1,short_head,Rushmore (1998),Comedy|Drama
+0,334,4.2613235,2,short_head,Vanya on 42nd Street (1994),Drama
+0,1106,4.256429,3,short_head,,
+0,1144,4.2546945,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+0,1252,4.2544727,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+1,2395,3.9205978,1,short_head,Rushmore (1998),Comedy|Drama
+1,2158,3.7913344,2,long_tail,,
+1,334,3.9131796,3,short_head,Vanya on 42nd Street (1994),Drama
+1,1106,3.9064014,4,short_head,,
+1,1144,3.90411,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+2,2395,3.609737,1,short_head,Rushmore (1998),Comedy|Drama
+2,2158,3.4415545,2,long_tail,,
+2,334,3.5998976,3,short_head,Vanya on 42nd Street (1994),Drama
+2,1106,3.5922692,4,short_head,,
+2,1144,3.5892498,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+3,2395,3.9262304,1,short_head,Rushmore (1998),Comedy|Drama
+3,2158,3.7976897,2,long_tail,,
+3,1106,3.9124348,3,short_head,,
+3,1144,3.9100292,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+3,1252,3.9097362,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+4,2395,3.7752194,1,short_head,Rushmore (1998),Comedy|Drama
+4,334,3.767095,2,short_head,Vanya on 42nd Street (1994),Drama
+4,1106,3.7598138,3,short_head,,
+4,1144,3.7572708,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+4,1252,3.756967,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+5,2395,3.95051,1,short_head,Rushmore (1998),Comedy|Drama
+5,2158,3.823698,2,long_tail,,
+5,334,3.9433196,3,short_head,Vanya on 42nd Street (1994),Drama
+5,1106,3.9364214,4,short_head,,
+5,1144,3.9341793,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+6,2395,3.6739075,1,short_head,Rushmore (1998),Comedy|Drama
+6,334,3.6650465,2,short_head,Vanya on 42nd Street (1994),Drama
+6,1106,3.6574304,3,short_head,,
+6,1144,3.654629,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+6,1252,3.6543274,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+7,2395,3.6648397,1,short_head,Rushmore (1998),Comedy|Drama
+7,334,3.6562,2,short_head,Vanya on 42nd Street (1994),Drama
+7,1106,3.648884,3,short_head,,
+7,1144,3.645978,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+7,1252,3.6451993,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+8,2395,3.807055,1,short_head,Rushmore (1998),Comedy|Drama
+8,2158,3.6688013,2,long_tail,,
+8,334,3.7991376,3,short_head,Vanya on 42nd Street (1994),Drama
+8,1106,3.7919364,4,short_head,,
+8,1144,3.7894251,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+9,2395,3.6828575,1,short_head,Rushmore (1998),Comedy|Drama
+9,2158,3.5263023,2,long_tail,,
+9,334,3.674233,3,short_head,Vanya on 42nd Street (1994),Drama
+9,1106,3.666624,4,short_head,,
+9,1144,3.6639092,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+10,2395,3.9149985,1,short_head,Rushmore (1998),Comedy|Drama
+10,334,3.90757,2,short_head,Vanya on 42nd Street (1994),Drama
+10,1106,3.9008274,3,short_head,,
+10,1144,3.8984718,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+10,1252,3.8981862,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+11,2395,4.0699663,1,short_head,Rushmore (1998),Comedy|Drama
+11,334,4.0633516,2,short_head,Vanya on 42nd Street (1994),Drama
+11,1106,4.057333,3,short_head,,
+11,1144,4.0552406,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+11,1252,4.054984,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+12,2395,3.9468172,1,short_head,Rushmore (1998),Comedy|Drama
+12,334,3.939587,2,short_head,Vanya on 42nd Street (1994),Drama
+12,1106,3.9330163,3,short_head,,
+12,1144,3.9306688,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+12,1252,3.9303863,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+13,2395,3.664663,1,short_head,Rushmore (1998),Comedy|Drama
+13,334,3.6558757,2,short_head,Vanya on 42nd Street (1994),Drama
+13,1106,3.6482139,3,short_head,,
+13,1144,3.645449,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+13,1252,3.6448717,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+14,2395,3.5776687,1,short_head,Rushmore (1998),Comedy|Drama
+14,334,3.5670195,2,short_head,Vanya on 42nd Street (1994),Drama
+14,1106,3.5593214,3,short_head,,
+14,1144,3.5561962,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+14,1252,3.555391,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+15,2395,3.7790549,1,short_head,Rushmore (1998),Comedy|Drama
+15,334,3.7709916,2,short_head,Vanya on 42nd Street (1994),Drama
+15,1144,3.7611344,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+15,1252,3.7608228,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+15,2829,3.7539897,5,short_head,"Muse, The (1999)",Comedy
+16,2395,4.0428963,1,short_head,Rushmore (1998),Comedy|Drama
+16,1252,4.027608,2,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+16,2829,4.021865,3,short_head,"Muse, The (1999)",Comedy
+16,2400,4.005316,4,short_head,Prancer (1989),Children|Drama|Fantasy
+16,1248,4.0039907,5,short_head,Touch of Evil (1958),Crime|Film-Noir|Thriller
+17,2395,3.9295104,1,short_head,Rushmore (1998),Comedy|Drama
+17,2158,3.8014941,2,long_tail,,
+17,334,3.9222422,3,short_head,Vanya on 42nd Street (1994),Drama
+17,2829,3.9068274,4,short_head,"Muse, The (1999)",Comedy
+17,2400,3.8888552,5,short_head,Prancer (1989),Children|Drama|Fantasy
+18,2395,3.0007932,1,short_head,Rushmore (1998),Comedy|Drama
+18,1106,2.9778333,2,short_head,,
+18,1144,2.9737058,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+18,1252,2.9724407,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+18,2158,2.8103113,5,long_tail,,
+19,2395,3.9680693,1,short_head,Rushmore (1998),Comedy|Drama
+19,2158,3.8427863,2,long_tail,,
+19,334,3.9608717,3,short_head,Vanya on 42nd Street (1994),Drama
+19,1106,3.9542456,4,short_head,,
+19,1144,3.9520135,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+20,2395,3.5525062,1,short_head,Rushmore (1998),Comedy|Drama
+20,2158,3.3778026,2,long_tail,,
+20,334,3.5419636,3,short_head,Vanya on 42nd Street (1994),Drama
+20,1106,3.5341644,4,short_head,,
+20,1144,3.5308912,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+21,2395,3.296319,1,short_head,Rushmore (1998),Comedy|Drama
+21,334,3.2839193,2,short_head,Vanya on 42nd Street (1994),Drama
+21,1106,3.2750635,3,short_head,,
+21,1144,3.2715058,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+21,1252,3.2703946,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+22,2395,3.9293215,1,short_head,Rushmore (1998),Comedy|Drama
+22,2158,3.8009124,2,long_tail,,
+22,334,3.921989,3,short_head,Vanya on 42nd Street (1994),Drama
+22,1252,3.9126778,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+22,2829,3.9064593,5,short_head,"Muse, The (1999)",Comedy
+23,2395,3.8082933,1,short_head,Rushmore (1998),Comedy|Drama
+23,334,3.8003278,2,short_head,Vanya on 42nd Street (1994),Drama
+23,1106,3.7932,3,short_head,,
+23,1144,3.7906642,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+23,1252,3.7903476,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+24,2395,4.0494986,1,short_head,Rushmore (1998),Comedy|Drama
+24,334,4.042799,2,short_head,Vanya on 42nd Street (1994),Drama
+24,1106,4.036552,3,short_head,,
+24,2158,3.9315033,4,long_tail,,
+24,1144,4.034445,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+25,2395,3.5384932,1,short_head,Rushmore (1998),Comedy|Drama
+25,334,3.5276875,2,short_head,Vanya on 42nd Street (1994),Drama
+25,1106,3.5197763,3,short_head,,
+25,1144,3.51653,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+25,1252,3.515742,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+26,2395,3.7136102,1,short_head,Rushmore (1998),Comedy|Drama
+26,334,3.7051356,2,short_head,Vanya on 42nd Street (1994),Drama
+26,1106,3.6977575,3,short_head,,
+26,1252,3.6947117,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+26,2829,3.687039,5,short_head,"Muse, The (1999)",Comedy
+27,2395,3.2101622,1,short_head,Rushmore (1998),Comedy|Drama
+27,2158,3.0111911,2,long_tail,,
+27,334,3.1977162,3,short_head,Vanya on 42nd Street (1994),Drama
+27,1106,3.1891072,4,short_head,,
+27,1252,3.1840305,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+28,334,4.06559,1,short_head,Vanya on 42nd Street (1994),Drama
+28,1106,4.059647,2,short_head,,
+28,1252,4.057248,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+28,2829,4.0516367,4,short_head,"Muse, The (1999)",Comedy
+28,1133,4.0392075,5,short_head,,
+29,2395,4.082397,1,short_head,Rushmore (1998),Comedy|Drama
+29,334,4.075865,2,short_head,Vanya on 42nd Street (1994),Drama
+29,1106,4.069881,3,short_head,,
+29,1144,4.0678034,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+29,1252,4.0675883,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+30,2395,3.8652964,1,short_head,Rushmore (1998),Comedy|Drama
+30,334,3.8576326,2,short_head,Vanya on 42nd Street (1994),Drama
+30,1106,3.850678,3,short_head,,
+30,1144,3.8482378,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+30,1252,3.847945,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+31,2395,3.903426,1,short_head,Rushmore (1998),Comedy|Drama
+31,334,3.895968,2,short_head,Vanya on 42nd Street (1994),Drama
+31,1106,3.8892996,3,short_head,,
+31,1144,3.8868465,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+31,1252,3.8865786,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+32,2395,3.906475,1,short_head,Rushmore (1998),Comedy|Drama
+32,2158,3.776135,2,long_tail,,
+32,334,3.8989954,3,short_head,Vanya on 42nd Street (1994),Drama
+32,1106,3.892243,4,short_head,,
+32,1144,3.8898566,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+33,2395,3.7768283,1,short_head,Rushmore (1998),Comedy|Drama
+33,334,3.7688563,2,short_head,Vanya on 42nd Street (1994),Drama
+33,2158,3.636174,3,long_tail,,
+33,1106,3.7616668,4,short_head,,
+33,1144,3.759023,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+34,2395,3.8845835,1,short_head,Rushmore (1998),Comedy|Drama
+34,334,3.8770466,2,short_head,Vanya on 42nd Street (1994),Drama
+34,1106,3.8701696,3,short_head,,
+34,1144,3.8677692,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+34,1252,3.8674796,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+35,2395,3.4948587,1,short_head,Rushmore (1998),Comedy|Drama
+35,2158,3.314845,2,long_tail,,
+35,334,3.4837017,3,short_head,Vanya on 42nd Street (1994),Drama
+35,1144,3.4723477,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+35,1252,3.4714947,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+36,2395,3.792882,1,short_head,Rushmore (1998),Comedy|Drama
+36,334,3.784884,2,short_head,Vanya on 42nd Street (1994),Drama
+36,1106,3.7775955,3,short_head,,
+36,1144,3.7750638,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+36,1252,3.7747905,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+37,2395,3.573986,1,short_head,Rushmore (1998),Comedy|Drama
+37,334,3.5633006,2,short_head,Vanya on 42nd Street (1994),Drama
+37,1106,3.5559397,3,short_head,,
+37,1144,3.5527384,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+37,1252,3.5519705,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+38,2395,3.9399881,1,short_head,Rushmore (1998),Comedy|Drama
+38,334,3.932676,2,short_head,Vanya on 42nd Street (1994),Drama
+38,1106,3.926036,3,short_head,,
+38,1144,3.9237099,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+38,1252,3.9234467,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+39,2395,3.903463,1,short_head,Rushmore (1998),Comedy|Drama
+39,334,3.896054,2,short_head,Vanya on 42nd Street (1994),Drama
+39,1106,3.888864,3,short_head,,
+39,1144,3.8865776,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+39,1252,3.8863244,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+40,2395,3.4394817,1,short_head,Rushmore (1998),Comedy|Drama
+40,334,3.4281812,2,short_head,Vanya on 42nd Street (1994),Drama
+40,1106,3.419818,3,short_head,,
+40,1144,3.4164143,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+40,1252,3.4155674,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+41,2395,3.9273808,1,short_head,Rushmore (1998),Comedy|Drama
+41,2158,3.799006,2,long_tail,,
+41,334,3.9203455,3,short_head,Vanya on 42nd Street (1994),Drama
+41,1106,3.913728,4,short_head,,
+41,1144,3.9112706,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+42,2395,4.248779,1,short_head,Rushmore (1998),Comedy|Drama
+42,334,4.2431893,2,short_head,Vanya on 42nd Street (1994),Drama
+42,1106,4.238097,3,short_head,,
+42,1144,4.2363653,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+42,1252,4.236121,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+43,2395,3.7777324,1,short_head,Rushmore (1998),Comedy|Drama
+43,2158,3.6367252,2,long_tail,,
+43,334,3.7696698,3,short_head,Vanya on 42nd Street (1994),Drama
+43,1106,3.7622907,4,short_head,,
+43,1144,3.7597644,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+44,2395,4.0730143,1,short_head,Rushmore (1998),Comedy|Drama
+44,334,4.066377,2,short_head,Vanya on 42nd Street (1994),Drama
+44,1106,4.060274,3,short_head,,
+44,1144,4.0581746,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+44,1252,4.05798,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+45,2395,3.8997123,1,short_head,Rushmore (1998),Comedy|Drama
+45,334,3.8921018,2,short_head,Vanya on 42nd Street (1994),Drama
+45,1106,3.885387,3,short_head,,
+45,1144,3.8830194,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+45,1252,3.8827374,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+46,2395,3.484889,1,short_head,Rushmore (1998),Comedy|Drama
+46,2158,3.30406,2,long_tail,,
+46,334,3.4737573,3,short_head,Vanya on 42nd Street (1994),Drama
+46,1106,3.4657357,4,short_head,,
+46,1144,3.4623537,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+47,2395,3.9951208,1,short_head,Rushmore (1998),Comedy|Drama
+47,334,3.98798,2,short_head,Vanya on 42nd Street (1994),Drama
+47,1106,3.9817536,3,short_head,,
+47,1144,3.9795198,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+47,1252,3.9792438,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+48,2395,3.8728333,1,short_head,Rushmore (1998),Comedy|Drama
+48,334,3.8652267,2,short_head,Vanya on 42nd Street (1994),Drama
+48,1106,3.8583698,3,short_head,,
+48,1144,3.8559208,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+48,1252,3.855623,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+49,334,3.197794,1,short_head,Vanya on 42nd Street (1994),Drama
+49,2158,3.0112076,2,long_tail,,
+49,1144,3.185206,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+49,2400,3.1459994,4,short_head,Prancer (1989),Children|Drama|Fantasy
+49,3503,2.967084,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+50,2395,4.088134,1,short_head,Rushmore (1998),Comedy|Drama
+50,2158,3.9736998,2,long_tail,,
+50,334,4.081538,3,short_head,Vanya on 42nd Street (1994),Drama
+50,1106,4.0755453,4,short_head,,
+50,1252,4.0732913,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+51,2395,4.2618876,1,short_head,Rushmore (1998),Comedy|Drama
+51,334,4.25631,2,short_head,Vanya on 42nd Street (1994),Drama
+51,1106,4.251385,3,short_head,,
+51,1144,4.2496057,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+51,1252,4.2493744,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+52,2395,4.1311545,1,short_head,Rushmore (1998),Comedy|Drama
+52,334,4.1248956,2,short_head,Vanya on 42nd Street (1994),Drama
+52,1106,4.119195,3,short_head,,
+52,1144,4.1171894,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+52,1252,4.1169496,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+53,2395,3.3766708,1,short_head,Rushmore (1998),Comedy|Drama
+53,334,3.365022,2,short_head,Vanya on 42nd Street (1994),Drama
+53,1106,3.3564334,3,short_head,,
+53,1144,3.3529515,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+53,1252,3.3519342,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+54,2395,3.6888561,1,short_head,Rushmore (1998),Comedy|Drama
+54,334,3.6803055,2,short_head,Vanya on 42nd Street (1994),Drama
+54,1106,3.6726456,3,short_head,,
+54,1144,3.6699412,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+54,1252,3.669506,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+55,2395,3.7594912,1,short_head,Rushmore (1998),Comedy|Drama
+55,334,3.7512817,2,short_head,Vanya on 42nd Street (1994),Drama
+55,1106,3.7439537,3,short_head,,
+55,1144,3.7413716,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+55,1252,3.7410543,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+56,334,3.7720113,1,short_head,Vanya on 42nd Street (1994),Drama
+56,2158,3.6393473,2,long_tail,,
+56,1252,3.7617779,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+56,2829,3.7549412,4,short_head,"Muse, The (1999)",Comedy
+56,1133,3.7398555,5,short_head,,
+57,2395,3.9347649,1,short_head,Rushmore (1998),Comedy|Drama
+57,334,3.9274123,2,short_head,Vanya on 42nd Street (1994),Drama
+57,1106,3.9206705,3,short_head,,
+57,1144,3.9183674,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+57,1252,3.9181006,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+58,2395,4.2106,1,short_head,Rushmore (1998),Comedy|Drama
+58,2158,4.108242,2,long_tail,,
+58,334,4.2047973,3,short_head,Vanya on 42nd Street (1994),Drama
+58,1144,4.1976438,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+58,1252,4.1974254,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+59,2395,3.741828,1,short_head,Rushmore (1998),Comedy|Drama
+59,334,3.7335796,2,short_head,Vanya on 42nd Street (1994),Drama
+59,1106,3.726009,3,short_head,,
+59,1144,3.7234635,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+59,1252,3.72316,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+60,2395,3.939953,1,short_head,Rushmore (1998),Comedy|Drama
+60,334,3.932654,2,short_head,Vanya on 42nd Street (1994),Drama
+60,1106,3.9260437,3,short_head,,
+60,1144,3.9237306,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+60,1252,3.9234338,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+61,2395,4.216634,1,short_head,Rushmore (1998),Comedy|Drama
+61,2158,4.1149225,2,long_tail,,
+61,334,4.210895,3,short_head,Vanya on 42nd Street (1994),Drama
+61,1106,4.205652,4,short_head,,
+61,1144,4.2038,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+62,2395,3.7565975,1,short_head,Rushmore (1998),Comedy|Drama
+62,334,3.7484093,2,short_head,Vanya on 42nd Street (1994),Drama
+62,1106,3.740888,3,short_head,,
+62,1144,3.73834,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+62,1252,3.7380362,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+63,334,3.975915,1,short_head,Vanya on 42nd Street (1994),Drama
+63,1106,3.9696097,2,short_head,,
+63,1144,3.9672313,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+63,1252,3.966971,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+63,2829,3.9609635,5,short_head,"Muse, The (1999)",Comedy
+64,2395,3.8780303,1,short_head,Rushmore (1998),Comedy|Drama
+64,334,3.8703847,2,short_head,Vanya on 42nd Street (1994),Drama
+64,1106,3.8633478,3,short_head,,
+64,1144,3.8609936,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+64,1252,3.8607154,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+65,2395,4.1227098,1,short_head,Rushmore (1998),Comedy|Drama
+65,2158,4.0115347,2,long_tail,,
+65,334,4.1163216,3,short_head,Vanya on 42nd Street (1994),Drama
+65,1144,4.1084914,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+65,1252,4.10829,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+66,2395,3.7333941,1,short_head,Rushmore (1998),Comedy|Drama
+66,334,3.7250605,2,short_head,Vanya on 42nd Street (1994),Drama
+66,1106,3.7176652,3,short_head,,
+66,1144,3.7150407,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+66,1252,3.714723,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+67,2395,3.6217415,1,short_head,Rushmore (1998),Comedy|Drama
+67,2158,3.4545615,2,long_tail,,
+67,1106,3.6044354,3,short_head,,
+67,1144,3.6013865,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+67,1252,3.6006632,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+68,2395,4.0138493,1,short_head,Rushmore (1998),Comedy|Drama
+68,334,4.0069036,2,short_head,Vanya on 42nd Street (1994),Drama
+68,1106,4.0006537,3,short_head,,
+68,1144,3.998517,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+68,1252,3.9982154,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+69,2395,4.098727,1,short_head,Rushmore (1998),Comedy|Drama
+69,334,4.092278,2,short_head,Vanya on 42nd Street (1994),Drama
+69,1106,4.0864115,3,short_head,,
+69,1144,4.0843554,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+69,1252,4.0841103,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+70,2395,3.813671,1,short_head,Rushmore (1998),Comedy|Drama
+70,334,3.8057256,2,short_head,Vanya on 42nd Street (1994),Drama
+70,1106,3.798618,3,short_head,,
+70,1144,3.7960985,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+70,1252,3.795782,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+71,2395,3.9461648,1,short_head,Rushmore (1998),Comedy|Drama
+71,334,3.9389257,2,short_head,Vanya on 42nd Street (1994),Drama
+71,1106,3.9323087,3,short_head,,
+71,1144,3.9300063,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+71,1252,3.929729,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+72,2395,4.050364,1,short_head,Rushmore (1998),Comedy|Drama
+72,2158,3.9325423,2,long_tail,,
+72,334,4.0436835,3,short_head,Vanya on 42nd Street (1994),Drama
+72,1106,4.037595,4,short_head,,
+72,1144,4.03542,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+73,2395,4.3170466,1,short_head,Rushmore (1998),Comedy|Drama
+73,2158,4.226147,2,long_tail,,
+73,334,4.3119736,3,short_head,Vanya on 42nd Street (1994),Drama
+73,1144,4.305759,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+73,2829,4.3011727,5,short_head,"Muse, The (1999)",Comedy
+74,334,3.587077,1,short_head,Vanya on 42nd Street (1994),Drama
+74,1106,3.5794606,2,short_head,,
+74,1252,3.5755973,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+74,2829,3.5664198,4,short_head,"Muse, The (1999)",Comedy
+74,1133,3.5485039,5,short_head,,
+75,2395,3.4924743,1,short_head,Rushmore (1998),Comedy|Drama
+75,334,3.4812615,2,short_head,Vanya on 42nd Street (1994),Drama
+75,1106,3.472857,3,short_head,,
+75,1144,3.4696527,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+75,1252,3.4688544,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+76,2395,3.7772896,1,short_head,Rushmore (1998),Comedy|Drama
+76,334,3.7692497,2,short_head,Vanya on 42nd Street (1994),Drama
+76,1106,3.7619514,3,short_head,,
+76,1144,3.759346,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+76,1252,3.7590744,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+77,2395,3.4259222,1,short_head,Rushmore (1998),Comedy|Drama
+77,334,3.4144688,2,short_head,Vanya on 42nd Street (1994),Drama
+77,1106,3.406118,3,short_head,,
+77,1144,3.4026802,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+77,1252,3.40186,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+78,2395,4.0266714,1,short_head,Rushmore (1998),Comedy|Drama
+78,2158,3.9066908,2,long_tail,,
+78,334,4.0198116,3,short_head,Vanya on 42nd Street (1994),Drama
+78,1106,4.01366,4,short_head,,
+78,1144,4.011461,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+79,2395,4.2811623,1,short_head,Rushmore (1998),Comedy|Drama
+79,2158,4.186157,2,long_tail,,
+79,334,4.275773,3,short_head,Vanya on 42nd Street (1994),Drama
+79,1106,4.2708654,4,short_head,,
+79,1144,4.2691536,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+80,2395,3.4909847,1,short_head,Rushmore (1998),Comedy|Drama
+80,334,3.479812,2,short_head,Vanya on 42nd Street (1994),Drama
+80,1106,3.4716988,3,short_head,,
+80,1144,3.4683814,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+80,1252,3.4675555,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+81,2395,3.548554,1,short_head,Rushmore (1998),Comedy|Drama
+81,334,3.5377994,2,short_head,Vanya on 42nd Street (1994),Drama
+81,2158,3.3734488,3,long_tail,,
+81,1106,3.5301929,4,short_head,,
+81,1144,3.5268996,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+82,334,3.6006548,1,short_head,Vanya on 42nd Street (1994),Drama
+82,1106,3.5931172,2,short_head,,
+82,1144,3.5900142,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+82,1252,3.5893142,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+82,2829,3.5802417,5,short_head,"Muse, The (1999)",Comedy
+83,2395,3.937796,1,short_head,Rushmore (1998),Comedy|Drama
+83,2158,3.8100803,2,long_tail,,
+83,1106,3.9239268,3,short_head,,
+83,1144,3.9216099,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+83,1252,3.921323,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+84,2395,3.8594046,1,short_head,Rushmore (1998),Comedy|Drama
+84,2158,3.7253091,2,long_tail,,
+84,334,3.851717,3,short_head,Vanya on 42nd Street (1994),Drama
+84,1106,3.8447568,4,short_head,,
+84,3503,3.6964765,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+85,2395,3.8748488,1,short_head,Rushmore (1998),Comedy|Drama
+85,334,3.867233,2,short_head,Vanya on 42nd Street (1994),Drama
+85,1106,3.8603137,3,short_head,,
+85,1144,3.8578835,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+85,1252,3.8576007,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+86,2395,4.0110216,1,short_head,Rushmore (1998),Comedy|Drama
+86,334,4.00406,2,short_head,Vanya on 42nd Street (1994),Drama
+86,1106,3.9978108,3,short_head,,
+86,1144,3.995603,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+86,1252,3.9953363,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+87,2395,3.9973755,1,short_head,Rushmore (1998),Comedy|Drama
+87,334,3.9903417,2,short_head,Vanya on 42nd Street (1994),Drama
+87,1106,3.9839437,3,short_head,,
+87,1144,3.9817533,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+87,1252,3.9814732,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+88,2158,3.8649063,1,long_tail,,
+88,2395,3.98848,2,short_head,Rushmore (1998),Comedy|Drama
+88,1106,3.9747448,3,short_head,,
+88,3503,3.838447,4,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+88,1144,3.9725838,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+89,2395,4.088357,1,short_head,Rushmore (1998),Comedy|Drama
+89,2158,3.974028,2,long_tail,,
+89,334,4.081845,3,short_head,Vanya on 42nd Street (1994),Drama
+89,1106,4.0759234,4,short_head,,
+89,3503,3.9491897,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+90,2395,3.742755,1,short_head,Rushmore (1998),Comedy|Drama
+90,2158,3.5970485,2,long_tail,,
+90,334,3.7344851,3,short_head,Vanya on 42nd Street (1994),Drama
+90,1106,3.7266464,4,short_head,,
+90,1252,3.7238884,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+91,2395,3.9905941,1,short_head,Rushmore (1998),Comedy|Drama
+91,334,3.9835505,2,short_head,Vanya on 42nd Street (1994),Drama
+91,1106,3.9771667,3,short_head,,
+91,1144,3.9749157,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+91,1252,3.9746647,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+92,2395,4.1825175,1,short_head,Rushmore (1998),Comedy|Drama
+92,334,4.1765203,2,short_head,Vanya on 42nd Street (1994),Drama
+92,1106,4.1710973,3,short_head,,
+92,1144,4.1691995,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+92,1252,4.16897,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+93,2395,3.432388,1,short_head,Rushmore (1998),Comedy|Drama
+93,334,3.4208913,2,short_head,Vanya on 42nd Street (1994),Drama
+93,1106,3.4123712,3,short_head,,
+93,1144,3.409042,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+93,1252,3.4082203,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+94,2395,4.1664033,1,short_head,Rushmore (1998),Comedy|Drama
+94,2158,4.0596714,2,long_tail,,
+94,334,4.1603026,3,short_head,Vanya on 42nd Street (1994),Drama
+94,1106,4.1549473,4,short_head,,
+94,1144,4.152952,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+95,2395,3.8984175,1,short_head,Rushmore (1998),Comedy|Drama
+95,334,3.8909535,2,short_head,Vanya on 42nd Street (1994),Drama
+95,1106,3.8841078,3,short_head,,
+95,1144,3.8817217,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+95,1252,3.881442,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+96,2395,4.0283904,1,short_head,Rushmore (1998),Comedy|Drama
+96,334,4.021478,2,short_head,Vanya on 42nd Street (1994),Drama
+96,1106,4.0153437,3,short_head,,
+96,1144,4.013156,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+96,1252,4.0129023,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+97,2395,4.0289373,1,short_head,Rushmore (1998),Comedy|Drama
+97,334,4.02209,2,short_head,Vanya on 42nd Street (1994),Drama
+97,1106,4.015938,3,short_head,,
+97,1144,4.0137634,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+97,1252,4.0134997,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+98,2395,3.952125,1,short_head,Rushmore (1998),Comedy|Drama
+98,334,3.9449697,2,short_head,Vanya on 42nd Street (1994),Drama
+98,1106,3.9384313,3,short_head,,
+98,1144,3.9361122,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+98,1252,3.935814,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+99,2395,4.0649724,1,short_head,Rushmore (1998),Comedy|Drama
+99,334,4.058358,2,short_head,Vanya on 42nd Street (1994),Drama
+99,1106,4.052287,3,short_head,,
+99,1144,4.05019,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+99,1252,4.0499372,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+100,2395,3.7954283,1,short_head,Rushmore (1998),Comedy|Drama
+100,2158,3.6564517,2,long_tail,,
+100,334,3.7874672,3,short_head,Vanya on 42nd Street (1994),Drama
+100,1106,3.7802382,4,short_head,,
+100,1144,3.7776933,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+101,2395,3.4678078,1,short_head,Rushmore (1998),Comedy|Drama
+101,334,3.4565427,2,short_head,Vanya on 42nd Street (1994),Drama
+101,1106,3.4484463,3,short_head,,
+101,1144,3.4450555,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+101,1252,3.4442294,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+102,2395,3.9655151,1,short_head,Rushmore (1998),Comedy|Drama
+102,334,3.9582136,2,short_head,Vanya on 42nd Street (1994),Drama
+102,1252,3.9491189,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+102,2829,3.9430168,4,short_head,"Muse, The (1999)",Comedy
+102,2158,3.8399553,5,long_tail,,
+103,2395,3.8477092,1,short_head,Rushmore (1998),Comedy|Drama
+103,2158,3.7126706,2,long_tail,,
+103,334,3.839997,3,short_head,Vanya on 42nd Street (1994),Drama
+103,1106,3.8329518,4,short_head,,
+103,1144,3.830473,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+104,2395,4.315431,1,short_head,Rushmore (1998),Comedy|Drama
+104,2158,4.2240686,2,long_tail,,
+104,334,4.3102694,3,short_head,Vanya on 42nd Street (1994),Drama
+104,1106,4.305566,4,short_head,,
+104,2400,4.28659,5,short_head,Prancer (1989),Children|Drama|Fantasy
+105,2395,4.0653005,1,short_head,Rushmore (1998),Comedy|Drama
+105,334,4.0587,2,short_head,Vanya on 42nd Street (1994),Drama
+105,1106,4.052599,3,short_head,,
+105,1144,4.050495,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+105,1252,4.0502386,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+106,2395,3.8124032,1,short_head,Rushmore (1998),Comedy|Drama
+106,334,3.8044648,2,short_head,Vanya on 42nd Street (1994),Drama
+106,1106,3.7973185,3,short_head,,
+106,1144,3.7948093,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+106,1252,3.7944908,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+107,334,4.0512023,1,short_head,Vanya on 42nd Street (1994),Drama
+107,2158,3.9406915,2,long_tail,,
+107,1106,4.0451403,3,short_head,,
+107,1144,4.0430145,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+107,1252,4.042758,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+108,2395,3.4959297,1,short_head,Rushmore (1998),Comedy|Drama
+108,334,3.4847631,2,short_head,Vanya on 42nd Street (1994),Drama
+108,1106,3.476714,3,short_head,,
+108,1144,3.4732845,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+108,1252,3.4725785,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+109,2395,3.7788372,1,short_head,Rushmore (1998),Comedy|Drama
+109,1106,3.7633083,2,short_head,,
+109,1144,3.7607884,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+109,1252,3.7604904,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+109,2158,3.63814,5,long_tail,,
+110,2395,3.9040544,1,short_head,Rushmore (1998),Comedy|Drama
+110,2158,3.7733774,2,long_tail,,
+110,334,3.8966818,3,short_head,Vanya on 42nd Street (1994),Drama
+110,1106,3.8897629,4,short_head,,
+110,3503,3.745365,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+111,2395,3.7851083,1,short_head,Rushmore (1998),Comedy|Drama
+111,334,3.7770314,2,short_head,Vanya on 42nd Street (1994),Drama
+111,1106,3.7696357,3,short_head,,
+111,1144,3.7671409,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+111,1252,3.766861,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+112,2395,3.9661386,1,short_head,Rushmore (1998),Comedy|Drama
+112,3503,3.8137488,2,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+112,334,3.958863,3,short_head,Vanya on 42nd Street (1994),Drama
+112,1106,3.9523945,4,short_head,,
+112,1144,3.950132,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+113,2395,3.6535106,1,short_head,Rushmore (1998),Comedy|Drama
+113,334,3.6445222,2,short_head,Vanya on 42nd Street (1994),Drama
+113,1106,3.6367295,3,short_head,,
+113,1144,3.6339126,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+113,1252,3.6332428,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+114,2395,3.9550507,1,short_head,Rushmore (1998),Comedy|Drama
+114,334,3.947816,2,short_head,Vanya on 42nd Street (1994),Drama
+114,1106,3.9411843,3,short_head,,
+114,1144,3.9389114,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+114,1252,3.9386463,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+115,2395,3.531667,1,short_head,Rushmore (1998),Comedy|Drama
+115,334,3.5208435,2,short_head,Vanya on 42nd Street (1994),Drama
+115,1106,3.5130074,3,short_head,,
+115,1144,3.5096862,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+115,1252,3.5088584,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+116,2395,3.6238444,1,short_head,Rushmore (1998),Comedy|Drama
+116,334,3.614162,2,short_head,Vanya on 42nd Street (1994),Drama
+116,1106,3.606637,3,short_head,,
+116,1144,3.6037688,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+116,1252,3.602857,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+117,2395,3.981711,1,short_head,Rushmore (1998),Comedy|Drama
+117,334,3.9746218,2,short_head,Vanya on 42nd Street (1994),Drama
+117,1106,3.968164,3,short_head,,
+117,1144,3.965939,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+117,1252,3.9656634,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+118,2395,4.2563167,1,short_head,Rushmore (1998),Comedy|Drama
+118,2158,4.158704,2,long_tail,,
+118,334,4.2508106,3,short_head,Vanya on 42nd Street (1994),Drama
+118,1106,4.2457447,4,short_head,,
+118,1144,4.243985,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+119,2395,3.6326542,1,short_head,Rushmore (1998),Comedy|Drama
+119,334,3.6232371,2,short_head,Vanya on 42nd Street (1994),Drama
+119,1106,3.615639,3,short_head,,
+119,1144,3.6127906,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+119,1252,3.6120043,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+120,2395,3.7020068,1,short_head,Rushmore (1998),Comedy|Drama
+120,334,3.6935058,2,short_head,Vanya on 42nd Street (1994),Drama
+120,1106,3.6861613,3,short_head,,
+120,1144,3.6833792,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+120,1252,3.6830113,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+121,2395,4.396306,1,short_head,Rushmore (1998),Comedy|Drama
+121,334,4.3916755,2,short_head,Vanya on 42nd Street (1994),Drama
+121,1106,4.3874598,3,short_head,,
+121,1144,4.3859477,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+121,1252,4.3858047,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+122,2395,4.017106,1,short_head,Rushmore (1998),Comedy|Drama
+122,334,4.0102015,2,short_head,Vanya on 42nd Street (1994),Drama
+122,1106,4.0039415,3,short_head,,
+122,1144,4.001749,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+122,1252,4.0014844,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+123,2395,3.901241,1,short_head,Rushmore (1998),Comedy|Drama
+123,334,3.8937373,2,short_head,Vanya on 42nd Street (1994),Drama
+123,1106,3.8870454,3,short_head,,
+123,1144,3.884606,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+123,1252,3.884312,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+124,2395,4.1281133,1,short_head,Rushmore (1998),Comedy|Drama
+124,2158,4.0177794,2,long_tail,,
+124,334,4.121867,3,short_head,Vanya on 42nd Street (1994),Drama
+124,1106,4.1164002,4,short_head,,
+124,2444,3.9937112,5,long_tail,,
+125,2395,3.5807548,1,short_head,Rushmore (1998),Comedy|Drama
+125,334,3.5701702,2,short_head,Vanya on 42nd Street (1994),Drama
+125,1106,3.562535,3,short_head,,
+125,1144,3.5593822,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+125,1252,3.5586307,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+126,2395,3.697023,1,short_head,Rushmore (1998),Comedy|Drama
+126,1106,3.6809895,2,short_head,,
+126,1144,3.6782813,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+126,1252,3.677921,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+126,2829,3.6700213,5,short_head,"Muse, The (1999)",Comedy
+127,2395,4.0565453,1,short_head,Rushmore (1998),Comedy|Drama
+127,2158,3.9392755,2,long_tail,,
+127,334,4.0498447,3,short_head,Vanya on 42nd Street (1994),Drama
+127,1106,4.043805,4,short_head,,
+127,1144,4.0416737,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+128,2395,3.982501,1,short_head,Rushmore (1998),Comedy|Drama
+128,334,3.9754212,2,short_head,Vanya on 42nd Street (1994),Drama
+128,1106,3.9690194,3,short_head,,
+128,1144,3.9667594,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+128,1252,3.9664989,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+129,2395,3.6042514,1,short_head,Rushmore (1998),Comedy|Drama
+129,334,3.5941806,2,short_head,Vanya on 42nd Street (1994),Drama
+129,1106,3.586601,3,short_head,,
+129,1144,3.5834956,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+129,1252,3.582768,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+130,2395,3.6105573,1,short_head,Rushmore (1998),Comedy|Drama
+130,334,3.6005309,2,short_head,Vanya on 42nd Street (1994),Drama
+130,1106,3.59312,3,short_head,,
+130,1144,3.5899801,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+130,1252,3.589262,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+131,2395,3.319573,1,short_head,Rushmore (1998),Comedy|Drama
+131,1106,3.298628,2,short_head,,
+131,1144,3.2950072,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+131,1252,3.2939217,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+131,2829,3.2833347,5,short_head,"Muse, The (1999)",Comedy
+132,2395,3.5196993,1,short_head,Rushmore (1998),Comedy|Drama
+132,334,3.5086968,2,short_head,Vanya on 42nd Street (1994),Drama
+132,1106,3.5007164,3,short_head,,
+132,1144,3.4973893,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+132,1252,3.49657,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+133,2395,3.6421356,1,short_head,Rushmore (1998),Comedy|Drama
+133,334,3.6327221,2,short_head,Vanya on 42nd Street (1994),Drama
+133,1106,3.6250925,3,short_head,,
+133,1144,3.6222768,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+133,1252,3.6215005,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+134,2395,3.8458443,1,short_head,Rushmore (1998),Comedy|Drama
+134,334,3.8380244,2,short_head,Vanya on 42nd Street (1994),Drama
+134,1106,3.830926,3,short_head,,
+134,1144,3.8285015,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+134,1252,3.8282113,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+135,2395,3.701096,1,short_head,Rushmore (1998),Comedy|Drama
+135,334,3.692702,2,short_head,Vanya on 42nd Street (1994),Drama
+135,1106,3.6850376,3,short_head,,
+135,1144,3.682388,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+135,1252,3.6820679,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+136,1144,3.9613547,1,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+136,1252,3.9610744,2,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+136,2829,3.9550428,3,short_head,"Muse, The (1999)",Comedy
+136,2158,3.852781,4,long_tail,,
+136,1133,3.9416814,5,short_head,,
+137,2395,3.8772688,1,short_head,Rushmore (1998),Comedy|Drama
+137,334,3.8696811,2,short_head,Vanya on 42nd Street (1994),Drama
+137,1106,3.8627744,3,short_head,,
+137,1144,3.8603554,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+137,1252,3.8600624,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+138,2395,3.0239873,1,short_head,Rushmore (1998),Comedy|Drama
+138,334,3.0106564,2,short_head,Vanya on 42nd Street (1994),Drama
+138,1106,3.0015817,3,short_head,,
+138,1144,2.997402,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+138,1252,2.9961112,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+139,334,3.8212333,1,short_head,Vanya on 42nd Street (1994),Drama
+139,3503,3.663421,2,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+139,1252,3.8115416,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+139,2829,3.8048878,4,short_head,"Muse, The (1999)",Comedy
+139,1133,3.790047,5,short_head,,
+140,2395,3.609622,1,short_head,Rushmore (1998),Comedy|Drama
+140,334,3.59978,2,short_head,Vanya on 42nd Street (1994),Drama
+140,1106,3.5923407,3,short_head,,
+140,1144,3.5892127,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+140,1252,3.588513,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+141,2395,3.7188947,1,short_head,Rushmore (1998),Comedy|Drama
+141,334,3.7105522,2,short_head,Vanya on 42nd Street (1994),Drama
+141,1106,3.7030673,3,short_head,,
+141,1144,3.700379,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+141,1252,3.7000668,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+142,2395,3.7137651,1,short_head,Rushmore (1998),Comedy|Drama
+142,2158,3.562782,2,long_tail,,
+142,334,3.7053072,3,short_head,Vanya on 42nd Street (1994),Drama
+142,1106,3.6979067,4,short_head,,
+142,1144,3.69526,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+143,2395,3.7124834,1,short_head,Rushmore (1998),Comedy|Drama
+143,334,3.7041435,2,short_head,Vanya on 42nd Street (1994),Drama
+143,1106,3.696582,3,short_head,,
+143,1144,3.6939373,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+143,1252,3.6936083,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+144,2395,3.6044142,1,short_head,Rushmore (1998),Comedy|Drama
+144,334,3.5942488,2,short_head,Vanya on 42nd Street (1994),Drama
+144,1106,3.5866451,3,short_head,,
+144,1144,3.5835495,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+144,1252,3.5828164,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+145,2395,3.7738273,1,short_head,Rushmore (1998),Comedy|Drama
+145,334,3.765733,2,short_head,Vanya on 42nd Street (1994),Drama
+145,1106,3.7583888,3,short_head,,
+145,1144,3.7558346,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+145,1252,3.7555437,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+146,2395,3.7637377,1,short_head,Rushmore (1998),Comedy|Drama
+146,334,3.7556102,2,short_head,Vanya on 42nd Street (1994),Drama
+146,1106,3.748229,3,short_head,,
+146,1144,3.7456555,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+146,1252,3.745346,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+147,2395,3.8318899,1,short_head,Rushmore (1998),Comedy|Drama
+147,334,3.8240838,2,short_head,Vanya on 42nd Street (1994),Drama
+147,1106,3.8169937,3,short_head,,
+147,1144,3.8144543,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+147,1252,3.8142202,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+148,2395,3.5240722,1,short_head,Rushmore (1998),Comedy|Drama
+148,334,3.5131998,2,short_head,Vanya on 42nd Street (1994),Drama
+148,1106,3.505292,3,short_head,,
+148,1144,3.5019586,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+148,1252,3.5011368,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+149,2395,3.7845278,1,short_head,Rushmore (1998),Comedy|Drama
+149,334,3.7764919,2,short_head,Vanya on 42nd Street (1994),Drama
+149,1106,3.7692068,3,short_head,,
+149,1144,3.7666526,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+149,1252,3.7663465,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+150,2395,3.984355,1,short_head,Rushmore (1998),Comedy|Drama
+150,2158,3.860586,2,long_tail,,
+150,334,3.97726,3,short_head,Vanya on 42nd Street (1994),Drama
+150,1106,3.9708533,4,short_head,,
+150,1144,3.9686034,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+151,2395,3.9153852,1,short_head,Rushmore (1998),Comedy|Drama
+151,334,3.9080486,2,short_head,Vanya on 42nd Street (1994),Drama
+151,1106,3.9014652,3,short_head,,
+151,1144,3.8990355,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+151,2829,3.892439,5,short_head,"Muse, The (1999)",Comedy
+152,2395,3.1332207,1,short_head,Rushmore (1998),Comedy|Drama
+152,334,3.1202116,2,short_head,Vanya on 42nd Street (1994),Drama
+152,1106,3.1109169,3,short_head,,
+152,1144,3.1070762,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+152,1252,3.1059365,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+153,2395,3.9433026,1,short_head,Rushmore (1998),Comedy|Drama
+153,334,3.9360285,2,short_head,Vanya on 42nd Street (1994),Drama
+153,1106,3.92941,3,short_head,,
+153,1144,3.9270976,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+153,1252,3.9268174,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+154,2395,3.8117015,1,short_head,Rushmore (1998),Comedy|Drama
+154,334,3.803749,2,short_head,Vanya on 42nd Street (1994),Drama
+154,2158,3.673785,3,long_tail,,
+154,1106,3.7964413,4,short_head,,
+154,1144,3.793887,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+155,1144,3.9489782,1,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+155,2158,3.8394942,2,long_tail,,
+155,1252,3.9486873,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+155,2829,3.9426055,4,short_head,"Muse, The (1999)",Comedy
+155,1133,3.9290576,5,short_head,,
+156,2395,3.6944225,1,short_head,Rushmore (1998),Comedy|Drama
+156,334,3.6858792,2,short_head,Vanya on 42nd Street (1994),Drama
+156,1106,3.6783543,3,short_head,,
+156,1144,3.6756787,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+156,1252,3.675249,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+157,2395,3.818561,1,short_head,Rushmore (1998),Comedy|Drama
+157,2158,3.681291,2,long_tail,,
+157,334,3.8106856,3,short_head,Vanya on 42nd Street (1994),Drama
+157,1106,3.803539,4,short_head,,
+157,1144,3.80103,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+158,2395,3.5886977,1,short_head,Rushmore (1998),Comedy|Drama
+158,334,3.5784187,2,short_head,Vanya on 42nd Street (1994),Drama
+158,1106,3.5708163,3,short_head,,
+158,1144,3.5676298,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+158,1252,3.5668354,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+159,2395,3.2727015,1,short_head,Rushmore (1998),Comedy|Drama
+159,2158,3.0769632,2,long_tail,,
+159,334,3.2603273,3,short_head,Vanya on 42nd Street (1994),Drama
+159,1106,3.2516065,4,short_head,,
+159,1144,3.247883,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+160,2395,3.798502,1,short_head,Rushmore (1998),Comedy|Drama
+160,2158,3.6597185,2,long_tail,,
+160,334,3.7905242,3,short_head,Vanya on 42nd Street (1994),Drama
+160,1106,3.7833128,4,short_head,,
+160,1144,3.7807705,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+161,2395,3.9564242,1,short_head,Rushmore (1998),Comedy|Drama
+161,334,3.9491632,2,short_head,Vanya on 42nd Street (1994),Drama
+161,1106,3.9427006,3,short_head,,
+161,1144,3.9404058,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+161,1252,3.940126,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+162,2395,3.6061192,1,short_head,Rushmore (1998),Comedy|Drama
+162,334,3.5961723,2,short_head,Vanya on 42nd Street (1994),Drama
+162,1106,3.588355,3,short_head,,
+162,1144,3.585391,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+162,1252,3.5847342,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+163,2395,3.8385463,1,short_head,Rushmore (1998),Comedy|Drama
+163,334,3.8308134,2,short_head,Vanya on 42nd Street (1994),Drama
+163,1106,3.8239093,3,short_head,,
+163,1144,3.8213646,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+163,1252,3.821043,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+164,2395,3.7625635,1,short_head,Rushmore (1998),Comedy|Drama
+164,334,3.754404,2,short_head,Vanya on 42nd Street (1994),Drama
+164,2158,3.619703,3,long_tail,,
+164,1106,3.747077,4,short_head,,
+164,1144,3.7444859,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+165,2395,4.058247,1,short_head,Rushmore (1998),Comedy|Drama
+165,334,4.05158,2,short_head,Vanya on 42nd Street (1994),Drama
+165,1106,4.0454917,3,short_head,,
+165,1252,4.043117,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+165,2829,4.037444,5,short_head,"Muse, The (1999)",Comedy
+166,2395,3.7152364,1,short_head,Rushmore (1998),Comedy|Drama
+166,334,3.7068007,2,short_head,Vanya on 42nd Street (1994),Drama
+166,1106,3.6992283,3,short_head,,
+166,1144,3.6966205,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+166,1252,3.6963155,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+167,2395,4.1560373,1,short_head,Rushmore (1998),Comedy|Drama
+167,2158,4.0482464,2,long_tail,,
+167,334,4.1500096,3,short_head,Vanya on 42nd Street (1994),Drama
+167,2829,4.1369843,4,short_head,"Muse, The (1999)",Comedy
+167,1133,4.1255054,5,short_head,,
+168,2395,4.2930465,1,short_head,Rushmore (1998),Comedy|Drama
+168,2158,4.1993055,2,long_tail,,
+168,334,4.2877235,3,short_head,Vanya on 42nd Street (1994),Drama
+168,1106,4.282817,4,short_head,,
+168,1144,4.281174,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+169,2395,3.5510013,1,short_head,Rushmore (1998),Comedy|Drama
+169,334,3.5402942,2,short_head,Vanya on 42nd Street (1994),Drama
+169,1106,3.5324845,3,short_head,,
+169,1144,3.5292485,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+169,1252,3.5284586,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+170,2395,4.235335,1,short_head,Rushmore (1998),Comedy|Drama
+170,334,4.229686,2,short_head,Vanya on 42nd Street (1994),Drama
+170,1106,4.2245455,3,short_head,,
+170,1144,4.2227387,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+170,1252,4.222521,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+171,2395,3.836074,1,short_head,Rushmore (1998),Comedy|Drama
+171,334,3.8282866,2,short_head,Vanya on 42nd Street (1994),Drama
+171,1106,3.8212001,3,short_head,,
+171,1144,3.8187222,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+171,1252,3.8184247,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+172,2395,3.6652904,1,short_head,Rushmore (1998),Comedy|Drama
+172,334,3.6564848,2,short_head,Vanya on 42nd Street (1994),Drama
+172,1106,3.6487615,3,short_head,,
+172,1144,3.646046,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+172,1252,3.6453416,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+173,2395,3.700423,1,short_head,Rushmore (1998),Comedy|Drama
+173,334,3.6918936,2,short_head,Vanya on 42nd Street (1994),Drama
+173,1106,3.684246,3,short_head,,
+173,1144,3.681617,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+173,1252,3.6811402,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+174,2158,3.6929564,1,long_tail,,
+174,2395,3.8294415,2,short_head,Rushmore (1998),Comedy|Drama
+174,3503,3.6636844,3,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+174,334,3.8216352,4,short_head,Vanya on 42nd Street (1994),Drama
+174,2444,3.6633017,5,long_tail,,
+175,2395,3.8380742,1,short_head,Rushmore (1998),Comedy|Drama
+175,334,3.8302147,2,short_head,Vanya on 42nd Street (1994),Drama
+175,1106,3.8232083,3,short_head,,
+175,1144,3.820721,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+175,1252,3.8204358,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+176,2395,3.8188338,1,short_head,Rushmore (1998),Comedy|Drama
+176,3503,3.6521416,2,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+176,1144,3.8011289,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+176,1252,3.8008614,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+176,1248,3.7733603,5,short_head,Touch of Evil (1958),Crime|Film-Noir|Thriller
+177,2395,3.975986,1,short_head,Rushmore (1998),Comedy|Drama
+177,334,3.968774,2,short_head,Vanya on 42nd Street (1994),Drama
+177,1106,3.9624164,3,short_head,,
+177,1144,3.9601457,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+177,1252,3.9598708,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+178,2395,3.7407336,1,short_head,Rushmore (1998),Comedy|Drama
+178,334,3.7324903,2,short_head,Vanya on 42nd Street (1994),Drama
+178,1106,3.725045,3,short_head,,
+178,1144,3.722446,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+178,1252,3.722117,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+179,2395,3.6911366,1,short_head,Rushmore (1998),Comedy|Drama
+179,334,3.6825511,2,short_head,Vanya on 42nd Street (1994),Drama
+179,1106,3.6749723,3,short_head,,
+179,1144,3.6722853,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+179,1252,3.6718082,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+180,2395,3.3168766,1,short_head,Rushmore (1998),Comedy|Drama
+180,2158,3.123636,2,long_tail,,
+180,334,3.3045592,3,short_head,Vanya on 42nd Street (1994),Drama
+180,1106,3.296012,4,short_head,,
+180,1144,3.2923636,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+181,334,3.831833,1,short_head,Vanya on 42nd Street (1994),Drama
+181,2158,3.7037184,2,long_tail,,
+181,1144,3.822009,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+181,1252,3.8217397,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+181,2829,3.8151321,5,short_head,"Muse, The (1999)",Comedy
+182,2395,3.8855562,1,short_head,Rushmore (1998),Comedy|Drama
+182,334,3.8778722,2,short_head,Vanya on 42nd Street (1994),Drama
+182,2158,3.753567,3,long_tail,,
+182,1106,3.8711622,4,short_head,,
+182,1144,3.868731,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+183,2395,3.9585238,1,short_head,Rushmore (1998),Comedy|Drama
+183,2158,3.8325796,2,long_tail,,
+183,334,3.9513838,3,short_head,Vanya on 42nd Street (1994),Drama
+183,3503,3.8053675,4,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+183,1106,3.9447932,5,short_head,,
+184,2395,3.723624,1,short_head,Rushmore (1998),Comedy|Drama
+184,2158,3.574016,2,long_tail,,
+184,334,3.7152312,3,short_head,Vanya on 42nd Street (1994),Drama
+184,1106,3.7075126,4,short_head,,
+184,1144,3.7049687,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+185,334,4.172943,1,short_head,Vanya on 42nd Street (1994),Drama
+185,2158,4.073394,2,long_tail,,
+185,1106,4.1674905,3,short_head,,
+185,1144,4.1655827,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+185,1252,4.1653566,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+186,2395,4.0170517,1,short_head,Rushmore (1998),Comedy|Drama
+186,2158,3.8962312,2,long_tail,,
+186,334,4.0101867,3,short_head,Vanya on 42nd Street (1994),Drama
+186,1106,4.003921,4,short_head,,
+186,1252,4.001466,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+187,2395,4.1629605,1,short_head,Rushmore (1998),Comedy|Drama
+187,2158,4.0557933,2,long_tail,,
+187,334,4.156849,3,short_head,Vanya on 42nd Street (1994),Drama
+187,1106,4.1513023,4,short_head,,
+187,1144,4.149374,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+188,2395,3.6897373,1,short_head,Rushmore (1998),Comedy|Drama
+188,334,3.6811495,2,short_head,Vanya on 42nd Street (1994),Drama
+188,1106,3.673278,3,short_head,,
+188,1144,3.6707573,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+188,1252,3.670244,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+189,2395,3.9781573,1,short_head,Rushmore (1998),Comedy|Drama
+189,334,3.971025,2,short_head,Vanya on 42nd Street (1994),Drama
+189,1106,3.9645932,3,short_head,,
+189,1144,3.9623146,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+189,1252,3.962038,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+190,2395,3.9297972,1,short_head,Rushmore (1998),Comedy|Drama
+190,2158,3.8012278,2,long_tail,,
+190,334,3.9224007,3,short_head,Vanya on 42nd Street (1994),Drama
+190,1106,3.9154503,4,short_head,,
+190,1144,3.9132023,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+191,2395,3.793703,1,short_head,Rushmore (1998),Comedy|Drama
+191,334,3.7857628,2,short_head,Vanya on 42nd Street (1994),Drama
+191,1106,3.778466,3,short_head,,
+191,1144,3.7759314,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+191,1252,3.7756183,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+192,2395,3.7330928,1,short_head,Rushmore (1998),Comedy|Drama
+192,334,3.7248464,2,short_head,Vanya on 42nd Street (1994),Drama
+192,1106,3.7173562,3,short_head,,
+192,1144,3.714705,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+192,2829,3.7073889,5,short_head,"Muse, The (1999)",Comedy
+193,2395,3.7443824,1,short_head,Rushmore (1998),Comedy|Drama
+193,334,3.736193,2,short_head,Vanya on 42nd Street (1994),Drama
+193,1144,3.7261055,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+193,1252,3.725798,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+193,2829,3.7188463,5,short_head,"Muse, The (1999)",Comedy
+194,2395,3.761064,1,short_head,Rushmore (1998),Comedy|Drama
+194,2158,3.617591,2,long_tail,,
+194,334,3.7528422,3,short_head,Vanya on 42nd Street (1994),Drama
+194,1106,3.7455182,4,short_head,,
+194,1144,3.7429502,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+195,2395,3.8646097,1,short_head,Rushmore (1998),Comedy|Drama
+195,334,3.8569298,2,short_head,Vanya on 42nd Street (1994),Drama
+195,1106,3.8499966,3,short_head,,
+195,1144,3.8475437,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+195,1252,3.8472474,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+196,2395,3.8948631,1,short_head,Rushmore (1998),Comedy|Drama
+196,334,3.8873835,2,short_head,Vanya on 42nd Street (1994),Drama
+196,1106,3.8805544,3,short_head,,
+196,1144,3.8781424,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+196,1252,3.8778508,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+197,2395,3.7286375,1,short_head,Rushmore (1998),Comedy|Drama
+197,334,3.720373,2,short_head,Vanya on 42nd Street (1994),Drama
+197,1144,3.710186,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+197,1252,3.7098765,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+197,2158,3.5799875,5,long_tail,,
+198,1106,3.7335632,1,short_head,,
+198,2158,3.6049552,2,long_tail,,
+198,1144,3.7310064,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+198,2829,3.7238402,4,short_head,"Muse, The (1999)",Comedy
+198,1133,3.7086437,5,short_head,,
+199,2395,4.062196,1,short_head,Rushmore (1998),Comedy|Drama
+199,334,4.0555115,2,short_head,Vanya on 42nd Street (1994),Drama
+199,1106,4.049567,3,short_head,,
+199,1144,4.0473723,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+199,1252,4.0471168,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+200,2395,4.10483,1,short_head,Rushmore (1998),Comedy|Drama
+200,334,4.098444,2,short_head,Vanya on 42nd Street (1994),Drama
+200,1106,4.092567,3,short_head,,
+200,1144,4.0905247,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+200,1252,4.0902767,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+201,334,4.078782,1,short_head,Vanya on 42nd Street (1994),Drama
+201,2158,3.9705973,2,long_tail,,
+201,1106,4.072733,3,short_head,,
+201,1252,4.070436,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+201,2829,4.0648766,5,short_head,"Muse, The (1999)",Comedy
+202,2395,3.868451,1,short_head,Rushmore (1998),Comedy|Drama
+202,334,3.8608167,2,short_head,Vanya on 42nd Street (1994),Drama
+202,1106,3.853873,3,short_head,,
+202,1144,3.8514552,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+202,1252,3.8511534,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+203,2395,4.003671,1,short_head,Rushmore (1998),Comedy|Drama
+203,2158,3.8816223,2,long_tail,,
+203,334,3.9966953,3,short_head,Vanya on 42nd Street (1994),Drama
+203,1106,3.9903724,4,short_head,,
+203,1144,3.9881678,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+204,2395,3.874531,1,short_head,Rushmore (1998),Comedy|Drama
+204,334,3.866898,2,short_head,Vanya on 42nd Street (1994),Drama
+204,1106,3.859987,3,short_head,,
+204,1144,3.8575711,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+204,1252,3.8572826,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+205,2395,3.8560426,1,short_head,Rushmore (1998),Comedy|Drama
+205,334,3.8483498,2,short_head,Vanya on 42nd Street (1994),Drama
+205,1106,3.8413599,3,short_head,,
+205,1144,3.8389077,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+205,1252,3.838613,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+206,2395,3.7357416,1,short_head,Rushmore (1998),Comedy|Drama
+206,334,3.7274992,2,short_head,Vanya on 42nd Street (1994),Drama
+206,1106,3.7200167,3,short_head,,
+206,1144,3.7173991,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+206,1252,3.7170756,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+207,2395,3.6579375,1,short_head,Rushmore (1998),Comedy|Drama
+207,334,3.649237,2,short_head,Vanya on 42nd Street (1994),Drama
+207,1106,3.6417553,3,short_head,,
+207,1144,3.6388712,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+207,1252,3.6381543,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+208,2395,3.9044676,1,short_head,Rushmore (1998),Comedy|Drama
+208,334,3.8970306,2,short_head,Vanya on 42nd Street (1994),Drama
+208,1106,3.8903358,3,short_head,,
+208,1144,3.8879144,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+208,1252,3.8876202,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+209,2395,4.110935,1,short_head,Rushmore (1998),Comedy|Drama
+209,2158,3.9987059,2,long_tail,,
+209,334,4.1045175,3,short_head,Vanya on 42nd Street (1994),Drama
+209,1106,4.0986967,4,short_head,,
+209,1144,4.096646,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+210,2395,3.9716241,1,short_head,Rushmore (1998),Comedy|Drama
+210,334,3.9644864,2,short_head,Vanya on 42nd Street (1994),Drama
+210,1106,3.9580212,3,short_head,,
+210,1144,3.9557438,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+210,1252,3.9554677,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+211,2395,3.8708496,1,short_head,Rushmore (1998),Comedy|Drama
+211,2158,3.7377267,2,long_tail,,
+211,334,3.8632717,3,short_head,Vanya on 42nd Street (1994),Drama
+211,1106,3.856474,4,short_head,,
+211,1144,3.854011,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+212,2395,4.031276,1,short_head,Rushmore (1998),Comedy|Drama
+212,2158,3.9116766,2,long_tail,,
+212,334,4.024457,3,short_head,Vanya on 42nd Street (1994),Drama
+212,1106,4.0182652,4,short_head,,
+212,1144,4.0160933,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+213,2395,3.641202,1,short_head,Rushmore (1998),Comedy|Drama
+213,334,3.6323085,2,short_head,Vanya on 42nd Street (1994),Drama
+213,1106,3.6247506,3,short_head,,
+213,1144,3.6218271,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+213,1252,3.621119,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+214,2395,3.9379306,1,short_head,Rushmore (1998),Comedy|Drama
+214,334,3.930631,2,short_head,Vanya on 42nd Street (1994),Drama
+214,1106,3.924039,3,short_head,,
+214,1144,3.9217029,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+214,1252,3.9214187,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+215,2395,3.8279297,1,short_head,Rushmore (1998),Comedy|Drama
+215,2158,3.6914325,2,long_tail,,
+215,1144,3.8105834,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+215,1252,3.8102791,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+215,2829,3.8036237,5,short_head,"Muse, The (1999)",Comedy
+216,2395,3.0755978,1,short_head,Rushmore (1998),Comedy|Drama
+216,2158,2.8694441,2,long_tail,,
+216,1106,3.0537887,3,short_head,,
+216,1144,3.0497482,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+216,1252,3.0484824,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+217,2395,3.7242818,1,short_head,Rushmore (1998),Comedy|Drama
+217,334,3.7160044,2,short_head,Vanya on 42nd Street (1994),Drama
+217,1144,3.7058342,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+217,1252,3.7055113,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+217,2829,3.698268,5,short_head,"Muse, The (1999)",Comedy
+218,2395,3.5418744,1,short_head,Rushmore (1998),Comedy|Drama
+218,334,3.5312572,2,short_head,Vanya on 42nd Street (1994),Drama
+218,1106,3.5229344,3,short_head,,
+218,1144,3.5197797,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+218,1252,3.5189996,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+219,2395,3.9864156,1,short_head,Rushmore (1998),Comedy|Drama
+219,334,3.9793885,2,short_head,Vanya on 42nd Street (1994),Drama
+219,1106,3.9730108,3,short_head,,
+219,1144,3.9707518,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+219,1252,3.9704547,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+220,1252,4.1852574,1,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+220,2158,4.0949593,2,long_tail,,
+220,2829,4.180245,3,short_head,"Muse, The (1999)",Comedy
+220,1133,4.169173,4,short_head,,
+220,1248,4.1646633,5,short_head,Touch of Evil (1958),Crime|Film-Noir|Thriller
+221,2395,3.448404,1,short_head,Rushmore (1998),Comedy|Drama
+221,2158,3.2642722,2,long_tail,,
+221,334,3.4369743,3,short_head,Vanya on 42nd Street (1994),Drama
+221,1106,3.4288452,4,short_head,,
+221,1144,3.425435,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+222,2395,3.543858,1,short_head,Rushmore (1998),Comedy|Drama
+222,334,3.5331156,2,short_head,Vanya on 42nd Street (1994),Drama
+222,1106,3.5251875,3,short_head,,
+222,1144,3.5219493,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+222,1252,3.5211668,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+223,2395,4.03437,1,short_head,Rushmore (1998),Comedy|Drama
+223,334,4.0275826,2,short_head,Vanya on 42nd Street (1994),Drama
+223,1106,4.021426,3,short_head,,
+223,1144,4.0192394,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+223,1252,4.018975,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+224,2395,3.9278283,1,short_head,Rushmore (1998),Comedy|Drama
+224,334,3.9204097,2,short_head,Vanya on 42nd Street (1994),Drama
+224,1106,3.9137669,3,short_head,,
+224,1144,3.9114025,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+224,1252,3.911127,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+225,334,3.7480857,1,short_head,Vanya on 42nd Street (1994),Drama
+225,2158,3.6129453,2,long_tail,,
+225,1106,3.7409582,3,short_head,,
+225,1144,3.7382846,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+225,1252,3.7379518,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+226,2395,4.032175,1,short_head,Rushmore (1998),Comedy|Drama
+226,334,4.0253496,2,short_head,Vanya on 42nd Street (1994),Drama
+226,1106,4.019283,3,short_head,,
+226,1144,4.017075,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+226,1252,4.016806,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+227,2395,3.814849,1,short_head,Rushmore (1998),Comedy|Drama
+227,334,3.8069305,2,short_head,Vanya on 42nd Street (1994),Drama
+227,1106,3.7998676,3,short_head,,
+227,1144,3.7972631,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+227,1252,3.7969441,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+228,2395,3.7290878,1,short_head,Rushmore (1998),Comedy|Drama
+228,334,3.7208226,2,short_head,Vanya on 42nd Street (1994),Drama
+228,1106,3.713275,3,short_head,,
+228,1144,3.710654,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+228,1252,3.7103417,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+229,2395,3.2082033,1,short_head,Rushmore (1998),Comedy|Drama
+229,334,3.1955662,2,short_head,Vanya on 42nd Street (1994),Drama
+229,1106,3.1869392,3,short_head,,
+229,1144,3.1831164,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+229,1252,3.1819377,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+230,2395,3.6564698,1,short_head,Rushmore (1998),Comedy|Drama
+230,334,3.6474724,2,short_head,Vanya on 42nd Street (1994),Drama
+230,1106,3.6396456,3,short_head,,
+230,1144,3.6368647,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+230,1252,3.636191,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+231,2395,3.5345564,1,short_head,Rushmore (1998),Comedy|Drama
+231,2158,3.3579936,2,long_tail,,
+231,334,3.5236545,3,short_head,Vanya on 42nd Street (1994),Drama
+231,1106,3.515725,4,short_head,,
+231,1144,3.5123968,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+232,2395,3.3989837,1,short_head,Rushmore (1998),Comedy|Drama
+232,334,3.387288,2,short_head,Vanya on 42nd Street (1994),Drama
+232,1106,3.378852,3,short_head,,
+232,1144,3.375385,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+232,2158,3.2111216,5,long_tail,,
+233,2395,3.892974,1,short_head,Rushmore (1998),Comedy|Drama
+233,2158,3.7614102,2,long_tail,,
+233,334,3.8854506,3,short_head,Vanya on 42nd Street (1994),Drama
+233,1106,3.8784182,4,short_head,,
+233,1144,3.8760889,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+234,2395,3.6853645,1,short_head,Rushmore (1998),Comedy|Drama
+234,334,3.6767707,2,short_head,Vanya on 42nd Street (1994),Drama
+234,1106,3.6690583,3,short_head,,
+234,1144,3.666364,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+234,1252,3.6657267,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+235,2395,3.9814804,1,short_head,Rushmore (1998),Comedy|Drama
+235,2158,3.8574674,2,long_tail,,
+235,334,3.974402,3,short_head,Vanya on 42nd Street (1994),Drama
+235,1106,3.9679384,4,short_head,,
+235,1144,3.9656978,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+236,2395,3.6571918,1,short_head,Rushmore (1998),Comedy|Drama
+236,334,3.648381,2,short_head,Vanya on 42nd Street (1994),Drama
+236,1106,3.6406324,3,short_head,,
+236,1144,3.6378405,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+236,2829,3.6290112,5,short_head,"Muse, The (1999)",Comedy
+237,2395,3.8348308,1,short_head,Rushmore (1998),Comedy|Drama
+237,2158,3.6987963,2,long_tail,,
+237,334,3.8270233,3,short_head,Vanya on 42nd Street (1994),Drama
+237,1106,3.819897,4,short_head,,
+237,1144,3.8174725,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+238,2395,4.051912,1,short_head,Rushmore (1998),Comedy|Drama
+238,334,4.045217,2,short_head,Vanya on 42nd Street (1994),Drama
+238,1144,4.0370493,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+238,1252,4.0368066,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+238,2829,4.0310907,5,short_head,"Muse, The (1999)",Comedy
+239,2395,4.088377,1,short_head,Rushmore (1998),Comedy|Drama
+239,334,4.081916,2,short_head,Vanya on 42nd Street (1994),Drama
+239,1106,4.0759373,3,short_head,,
+239,1144,4.073864,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+239,1252,4.0736203,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+240,2395,3.9333363,1,short_head,Rushmore (1998),Comedy|Drama
+240,2158,3.8051918,2,long_tail,,
+240,334,3.9259925,3,short_head,Vanya on 42nd Street (1994),Drama
+240,1106,3.9192913,4,short_head,,
+240,1144,3.9169712,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+241,2395,3.7137854,1,short_head,Rushmore (1998),Comedy|Drama
+241,334,3.7053742,2,short_head,Vanya on 42nd Street (1994),Drama
+241,1106,3.697878,3,short_head,,
+241,1144,3.6952124,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+241,1252,3.694888,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+242,2395,3.9153633,1,short_head,Rushmore (1998),Comedy|Drama
+242,334,3.907939,2,short_head,Vanya on 42nd Street (1994),Drama
+242,1106,3.901229,3,short_head,,
+242,1144,3.898851,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+242,1252,3.8985639,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+243,2395,3.8422277,1,short_head,Rushmore (1998),Comedy|Drama
+243,334,3.8344731,2,short_head,Vanya on 42nd Street (1994),Drama
+243,1106,3.82762,3,short_head,,
+243,1144,3.8250618,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+243,1252,3.8247948,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+244,2395,3.552828,1,short_head,Rushmore (1998),Comedy|Drama
+244,2158,3.3784242,2,long_tail,,
+244,334,3.54218,3,short_head,Vanya on 42nd Street (1994),Drama
+244,1106,3.5345078,4,short_head,,
+244,1144,3.531225,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+245,2395,4.2546453,1,short_head,Rushmore (1998),Comedy|Drama
+245,2158,4.1565757,2,long_tail,,
+245,1106,4.24369,3,short_head,,
+245,1144,4.242044,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+245,1252,4.2418704,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+246,2395,3.6969376,1,short_head,Rushmore (1998),Comedy|Drama
+246,334,3.6883686,2,short_head,Vanya on 42nd Street (1994),Drama
+246,1106,3.6807323,3,short_head,,
+246,1144,3.6780047,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+246,1252,3.6777198,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+247,2395,3.8183453,1,short_head,Rushmore (1998),Comedy|Drama
+247,2158,3.6810732,2,long_tail,,
+247,334,3.8104444,3,short_head,Vanya on 42nd Street (1994),Drama
+247,1106,3.8033736,4,short_head,,
+247,1144,3.8008263,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+248,2395,3.987404,1,short_head,Rushmore (1998),Comedy|Drama
+248,2158,3.8639135,2,long_tail,,
+248,334,3.9802961,3,short_head,Vanya on 42nd Street (1994),Drama
+248,1106,3.9738014,4,short_head,,
+248,1252,3.9713848,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+249,2395,4.021167,1,short_head,Rushmore (1998),Comedy|Drama
+249,334,4.0142646,2,short_head,Vanya on 42nd Street (1994),Drama
+249,1106,4.008035,3,short_head,,
+249,1144,4.0058594,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+249,1252,4.00559,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+250,2395,4.019647,1,short_head,Rushmore (1998),Comedy|Drama
+250,334,4.012863,2,short_head,Vanya on 42nd Street (1994),Drama
+250,1106,4.0067873,3,short_head,,
+250,1144,4.0045204,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+250,1252,4.0042357,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+251,2395,4.103112,1,short_head,Rushmore (1998),Comedy|Drama
+251,2158,3.9901617,2,long_tail,,
+251,334,4.096718,3,short_head,Vanya on 42nd Street (1994),Drama
+251,1106,4.090834,4,short_head,,
+251,1144,4.0887923,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+252,2395,4.218684,1,short_head,Rushmore (1998),Comedy|Drama
+252,2158,4.1171875,2,long_tail,,
+252,334,4.2130065,3,short_head,Vanya on 42nd Street (1994),Drama
+252,1106,4.207725,4,short_head,,
+252,1144,4.2058845,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+253,2395,3.9121401,1,short_head,Rushmore (1998),Comedy|Drama
+253,334,3.9047008,2,short_head,Vanya on 42nd Street (1994),Drama
+253,1106,3.8979497,3,short_head,,
+253,1144,3.895664,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+253,1252,3.895303,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+254,2395,3.4495375,1,short_head,Rushmore (1998),Comedy|Drama
+254,2158,3.2656918,2,long_tail,,
+254,334,3.4382038,3,short_head,Vanya on 42nd Street (1994),Drama
+254,1106,3.4300854,4,short_head,,
+254,1144,3.4266856,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+255,2395,4.1658506,1,short_head,Rushmore (1998),Comedy|Drama
+255,334,4.1598053,2,short_head,Vanya on 42nd Street (1994),Drama
+255,1106,4.1542907,3,short_head,,
+255,1144,4.152374,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+255,1252,4.1521187,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+256,2395,3.5908928,1,short_head,Rushmore (1998),Comedy|Drama
+256,334,3.5805688,2,short_head,Vanya on 42nd Street (1994),Drama
+256,1106,3.5729206,3,short_head,,
+256,1144,3.5697618,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+256,1252,3.5689867,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+257,2395,3.9018464,1,short_head,Rushmore (1998),Comedy|Drama
+257,334,3.8943365,2,short_head,Vanya on 42nd Street (1994),Drama
+257,1106,3.8875623,3,short_head,,
+257,1144,3.8852046,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+257,1252,3.8848934,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+258,2395,3.7149417,1,short_head,Rushmore (1998),Comedy|Drama
+258,334,3.7066388,2,short_head,Vanya on 42nd Street (1994),Drama
+258,1106,3.6990926,3,short_head,,
+258,1144,3.696442,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+258,1252,3.6961195,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+259,2395,3.9859543,1,short_head,Rushmore (1998),Comedy|Drama
+259,2158,3.862268,2,long_tail,,
+259,1106,3.972391,3,short_head,,
+259,1144,3.9701555,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+259,1252,3.9698954,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+260,2395,3.8466244,1,short_head,Rushmore (1998),Comedy|Drama
+260,334,3.8388917,2,short_head,Vanya on 42nd Street (1994),Drama
+260,1106,3.8318172,3,short_head,,
+260,1144,3.8293705,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+260,1252,3.8290691,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+261,2395,3.4221509,1,short_head,Rushmore (1998),Comedy|Drama
+261,2158,3.2359834,2,long_tail,,
+261,334,3.410509,3,short_head,Vanya on 42nd Street (1994),Drama
+261,1106,3.4023323,4,short_head,,
+261,1144,3.3988917,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+262,2395,3.9003599,1,short_head,Rushmore (1998),Comedy|Drama
+262,334,3.8928912,2,short_head,Vanya on 42nd Street (1994),Drama
+262,1106,3.886025,3,short_head,,
+262,1144,3.8836508,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+262,1252,3.883371,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+263,2395,3.8244665,1,short_head,Rushmore (1998),Comedy|Drama
+263,334,3.816649,2,short_head,Vanya on 42nd Street (1994),Drama
+263,1106,3.8094816,3,short_head,,
+263,1144,3.8069901,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+263,1252,3.806686,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+264,2395,3.6878567,1,short_head,Rushmore (1998),Comedy|Drama
+264,3503,3.496989,2,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+264,334,3.6792636,3,short_head,Vanya on 42nd Street (1994),Drama
+264,1106,3.6716952,4,short_head,,
+264,1144,3.6690435,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+265,2395,3.6651297,1,short_head,Rushmore (1998),Comedy|Drama
+265,334,3.6563115,2,short_head,Vanya on 42nd Street (1994),Drama
+265,1106,3.6483166,3,short_head,,
+265,1144,3.6456811,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+265,1252,3.6450033,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+266,2395,4.06258,1,short_head,Rushmore (1998),Comedy|Drama
+266,334,4.055906,2,short_head,Vanya on 42nd Street (1994),Drama
+266,1106,4.049874,3,short_head,,
+266,1144,4.047755,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+266,1252,4.047508,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+267,2395,3.75378,1,short_head,Rushmore (1998),Comedy|Drama
+267,2158,3.609269,2,long_tail,,
+267,334,3.7456398,3,short_head,Vanya on 42nd Street (1994),Drama
+267,1144,3.735619,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+267,1252,3.7353303,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+268,2395,3.716842,1,short_head,Rushmore (1998),Comedy|Drama
+268,334,3.7086356,2,short_head,Vanya on 42nd Street (1994),Drama
+268,1106,3.7012463,3,short_head,,
+268,1144,3.6985512,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+268,1252,3.698214,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+269,2395,3.6724768,1,short_head,Rushmore (1998),Comedy|Drama
+269,334,3.6638067,2,short_head,Vanya on 42nd Street (1994),Drama
+269,1106,3.6560163,3,short_head,,
+269,1144,3.6533651,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+269,1252,3.6527834,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+270,2395,3.5277004,1,short_head,Rushmore (1998),Comedy|Drama
+270,334,3.5168698,2,short_head,Vanya on 42nd Street (1994),Drama
+270,1106,3.5089216,3,short_head,,
+270,1144,3.5056086,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+270,1252,3.504801,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+271,2395,3.8076625,1,short_head,Rushmore (1998),Comedy|Drama
+271,334,3.7996674,2,short_head,Vanya on 42nd Street (1994),Drama
+271,1106,3.7923355,3,short_head,,
+271,1144,3.7898662,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+271,1252,3.7895954,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+272,2395,3.9257941,1,short_head,Rushmore (1998),Comedy|Drama
+272,334,3.9184194,2,short_head,Vanya on 42nd Street (1994),Drama
+272,1106,3.911686,3,short_head,,
+272,1144,3.9093587,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+272,1252,3.909081,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+273,2395,3.6807287,1,short_head,Rushmore (1998),Comedy|Drama
+273,2158,3.523109,2,long_tail,,
+273,334,3.6718962,3,short_head,Vanya on 42nd Street (1994),Drama
+273,1106,3.664177,4,short_head,,
+273,1252,3.6610234,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+274,2395,4.1599655,1,short_head,Rushmore (1998),Comedy|Drama
+274,2158,4.052444,2,long_tail,,
+274,1144,4.146283,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+274,1252,4.1460533,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+274,2829,4.1408687,5,short_head,"Muse, The (1999)",Comedy
+275,2395,4.024489,1,short_head,Rushmore (1998),Comedy|Drama
+275,334,4.017584,2,short_head,Vanya on 42nd Street (1994),Drama
+275,1106,4.011425,3,short_head,,
+275,1144,4.0092225,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+275,1252,4.00894,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+276,2395,3.7356985,1,short_head,Rushmore (1998),Comedy|Drama
+276,334,3.72746,2,short_head,Vanya on 42nd Street (1994),Drama
+276,1106,3.7199397,3,short_head,,
+276,1144,3.7173269,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+276,1252,3.7170143,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+277,2395,3.8194036,1,short_head,Rushmore (1998),Comedy|Drama
+277,334,3.8115458,2,short_head,Vanya on 42nd Street (1994),Drama
+277,1106,3.8044298,3,short_head,,
+277,1144,3.8019083,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+277,1252,3.8016043,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+278,2395,3.8178573,1,short_head,Rushmore (1998),Comedy|Drama
+278,334,3.810008,2,short_head,Vanya on 42nd Street (1994),Drama
+278,1106,3.8029673,3,short_head,,
+278,1144,3.8003807,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+278,1252,3.800077,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+279,2395,4.108078,1,short_head,Rushmore (1998),Comedy|Drama
+279,2158,3.9956691,2,long_tail,,
+279,1106,4.0959816,3,short_head,,
+279,1144,4.093884,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+279,1252,4.093629,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+280,2395,3.631449,1,short_head,Rushmore (1998),Comedy|Drama
+280,334,3.622186,2,short_head,Vanya on 42nd Street (1994),Drama
+280,1106,3.6143553,3,short_head,,
+280,1144,3.6115289,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+280,1252,3.6109118,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+281,2395,4.014593,1,short_head,Rushmore (1998),Comedy|Drama
+281,334,4.0077443,2,short_head,Vanya on 42nd Street (1994),Drama
+281,1106,4.001269,3,short_head,,
+281,1144,3.9990811,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+281,2829,3.9929729,5,short_head,"Muse, The (1999)",Comedy
+282,2395,3.6359463,1,short_head,Rushmore (1998),Comedy|Drama
+282,334,3.6266694,2,short_head,Vanya on 42nd Street (1994),Drama
+282,1106,3.618932,3,short_head,,
+282,1144,3.6161156,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+282,1252,3.6153846,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+283,2395,3.7767196,1,short_head,Rushmore (1998),Comedy|Drama
+283,334,3.768639,2,short_head,Vanya on 42nd Street (1994),Drama
+283,1106,3.7613428,3,short_head,,
+283,1144,3.7587762,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+283,1252,3.7584636,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+284,2395,3.9522574,1,short_head,Rushmore (1998),Comedy|Drama
+284,2158,3.825716,2,long_tail,,
+284,334,3.9449658,3,short_head,Vanya on 42nd Street (1994),Drama
+284,1144,3.936162,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+284,1252,3.9358835,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+285,2395,3.8180985,1,short_head,Rushmore (1998),Comedy|Drama
+285,334,3.810229,2,short_head,Vanya on 42nd Street (1994),Drama
+285,1106,3.8030758,3,short_head,,
+285,1144,3.800582,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+285,1252,3.8002768,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+286,2395,3.3037357,1,short_head,Rushmore (1998),Comedy|Drama
+286,334,3.2914748,2,short_head,Vanya on 42nd Street (1994),Drama
+286,2158,3.1098912,3,long_tail,,
+286,1106,3.2830276,4,short_head,,
+286,1144,3.2792985,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+287,334,3.5058906,1,short_head,Vanya on 42nd Street (1994),Drama
+287,2158,3.3390367,2,long_tail,,
+287,1252,3.4940314,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+287,2829,3.4843478,4,short_head,"Muse, The (1999)",Comedy
+287,1133,3.465335,5,short_head,,
+288,2395,3.758594,1,short_head,Rushmore (1998),Comedy|Drama
+288,2158,3.6153486,2,long_tail,,
+288,334,3.7505202,3,short_head,Vanya on 42nd Street (1994),Drama
+288,1106,3.743044,4,short_head,,
+288,1144,3.7404857,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+289,1144,4.153282,1,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+289,2158,4.0599875,2,long_tail,,
+289,1252,4.153013,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+289,2829,4.147855,4,short_head,"Muse, The (1999)",Comedy
+289,1133,4.1364427,5,short_head,,
+290,2395,4.0430665,1,short_head,Rushmore (1998),Comedy|Drama
+290,334,4.0363035,2,short_head,Vanya on 42nd Street (1994),Drama
+290,1106,4.030163,3,short_head,,
+290,1144,4.028018,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+290,1252,4.0277715,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+291,2395,3.6026149,1,short_head,Rushmore (1998),Comedy|Drama
+291,2158,3.4335146,2,long_tail,,
+291,334,3.5926065,3,short_head,Vanya on 42nd Street (1994),Drama
+291,1106,3.5850523,4,short_head,,
+291,1144,3.5818982,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+292,2395,3.5076146,1,short_head,Rushmore (1998),Comedy|Drama
+292,334,3.4966013,2,short_head,Vanya on 42nd Street (1994),Drama
+292,1106,3.4885385,3,short_head,,
+292,1144,3.4852502,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+292,1252,3.4844265,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+293,1106,3.1533148,1,short_head,,
+293,2158,2.9729538,2,long_tail,,
+293,1144,3.149396,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+293,1252,3.1481996,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+293,2829,3.1370986,5,short_head,"Muse, The (1999)",Comedy
+294,2395,3.8147874,1,short_head,Rushmore (1998),Comedy|Drama
+294,334,3.806896,2,short_head,Vanya on 42nd Street (1994),Drama
+294,1106,3.7997093,3,short_head,,
+294,1144,3.7972064,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+294,2829,3.790207,5,short_head,"Muse, The (1999)",Comedy
+295,2395,3.9504006,1,short_head,Rushmore (1998),Comedy|Drama
+295,2158,3.823719,2,long_tail,,
+295,334,3.9431734,3,short_head,Vanya on 42nd Street (1994),Drama
+295,1106,3.936608,4,short_head,,
+295,1144,3.9342957,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+296,2395,3.334861,1,short_head,Rushmore (1998),Comedy|Drama
+296,334,3.3225617,2,short_head,Vanya on 42nd Street (1994),Drama
+296,1106,3.3137953,3,short_head,,
+296,1144,3.310247,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+296,1252,3.3091414,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+297,2395,2.8759713,1,short_head,Rushmore (1998),Comedy|Drama
+297,334,2.862513,2,short_head,Vanya on 42nd Street (1994),Drama
+297,2158,2.7861166,3,long_tail,,
+297,1106,2.8543165,4,short_head,,
+297,1144,2.8509781,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+298,2395,3.7885613,1,short_head,Rushmore (1998),Comedy|Drama
+298,334,3.7805212,2,short_head,Vanya on 42nd Street (1994),Drama
+298,1106,3.7732544,3,short_head,,
+298,1144,3.770702,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+298,1252,3.7703943,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+299,2395,3.887014,1,short_head,Rushmore (1998),Comedy|Drama
+299,334,3.8794584,2,short_head,Vanya on 42nd Street (1994),Drama
+299,1106,3.8726017,3,short_head,,
+299,1144,3.8702006,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+299,1252,3.8699043,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+300,2395,3.5004375,1,short_head,Rushmore (1998),Comedy|Drama
+300,334,3.4892724,2,short_head,Vanya on 42nd Street (1994),Drama
+300,1106,3.4809752,3,short_head,,
+300,1144,3.4777257,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+300,1252,3.476912,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+301,2395,3.8511715,1,short_head,Rushmore (1998),Comedy|Drama
+301,334,3.843441,2,short_head,Vanya on 42nd Street (1994),Drama
+301,1106,3.8364182,3,short_head,,
+301,1144,3.8339663,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+301,1252,3.8336768,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+302,2395,3.7750635,1,short_head,Rushmore (1998),Comedy|Drama
+302,334,3.7670138,2,short_head,Vanya on 42nd Street (1994),Drama
+302,1106,3.7597313,3,short_head,,
+302,1144,3.757101,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+302,1252,3.7568445,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+303,2395,3.958551,1,short_head,Rushmore (1998),Comedy|Drama
+303,334,3.951286,2,short_head,Vanya on 42nd Street (1994),Drama
+303,1106,3.9447222,3,short_head,,
+303,1144,3.9424512,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+303,1252,3.9421892,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+304,2395,4.1034727,1,short_head,Rushmore (1998),Comedy|Drama
+304,2158,3.9905813,2,long_tail,,
+304,334,4.097051,3,short_head,Vanya on 42nd Street (1994),Drama
+304,1133,4.071351,4,short_head,,
+304,2400,4.0677347,5,short_head,Prancer (1989),Children|Drama|Fantasy
+305,2395,3.7863061,1,short_head,Rushmore (1998),Comedy|Drama
+305,2158,3.646259,2,long_tail,,
+305,334,3.778257,3,short_head,Vanya on 42nd Street (1994),Drama
+305,1106,3.7709928,4,short_head,,
+305,3503,3.6152008,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+306,1144,2.9573379,1,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+306,2158,2.8012557,2,long_tail,,
+306,1252,2.956078,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+306,2829,2.9443262,4,short_head,"Muse, The (1999)",Comedy
+306,1133,2.9219027,5,short_head,,
+307,2395,3.2324483,1,short_head,Rushmore (1998),Comedy|Drama
+307,334,3.219644,2,short_head,Vanya on 42nd Street (1994),Drama
+307,1106,3.2108274,3,short_head,,
+307,1144,3.2071354,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+307,2829,3.195135,5,short_head,"Muse, The (1999)",Comedy
+308,334,4.0163555,1,short_head,Vanya on 42nd Street (1994),Drama
+308,2158,3.9028854,2,long_tail,,
+308,1106,4.0101094,3,short_head,,
+308,1144,4.0079155,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+308,1252,4.007664,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+309,334,3.8597443,1,short_head,Vanya on 42nd Street (1994),Drama
+309,2158,3.7339425,2,long_tail,,
+309,1106,3.8528748,3,short_head,,
+309,1144,3.8504114,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+309,1252,3.850114,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+310,2395,3.6298203,1,short_head,Rushmore (1998),Comedy|Drama
+310,2158,3.464446,2,long_tail,,
+310,334,3.6204033,3,short_head,Vanya on 42nd Street (1994),Drama
+310,1106,3.612734,4,short_head,,
+310,1144,3.6099412,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+311,334,3.9613452,1,short_head,Vanya on 42nd Street (1994),Drama
+311,2158,3.8433182,2,long_tail,,
+311,1144,3.952498,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+311,1252,3.9522347,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+311,2829,3.9461699,5,short_head,"Muse, The (1999)",Comedy
+312,2395,3.791429,1,short_head,Rushmore (1998),Comedy|Drama
+312,2158,3.6519597,2,long_tail,,
+312,334,3.7834678,3,short_head,Vanya on 42nd Street (1994),Drama
+312,1106,3.7762632,4,short_head,,
+312,1144,3.7736878,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+313,2395,3.4286199,1,short_head,Rushmore (1998),Comedy|Drama
+313,334,3.4171886,2,short_head,Vanya on 42nd Street (1994),Drama
+313,1106,3.4089077,3,short_head,,
+313,1144,3.4054608,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+313,1252,3.4046042,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+314,334,3.799746,1,short_head,Vanya on 42nd Street (1994),Drama
+314,2158,3.6695695,2,long_tail,,
+314,1106,3.792544,3,short_head,,
+314,1144,3.7900305,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+314,1252,3.7897315,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+315,2395,3.4524703,1,short_head,Rushmore (1998),Comedy|Drama
+315,334,3.4411664,2,short_head,Vanya on 42nd Street (1994),Drama
+315,1106,3.433033,3,short_head,,
+315,1144,3.4296217,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+315,1252,3.4287808,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+316,2395,3.8961556,1,short_head,Rushmore (1998),Comedy|Drama
+316,334,3.8886952,2,short_head,Vanya on 42nd Street (1994),Drama
+316,1106,3.8818192,3,short_head,,
+316,1144,3.8794222,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+316,1133,3.8587146,5,short_head,,
+317,2395,4.064921,1,short_head,Rushmore (1998),Comedy|Drama
+317,2158,3.9483786,2,long_tail,,
+317,1106,4.052299,3,short_head,,
+317,1144,4.050159,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+317,3503,3.9230897,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+318,2395,4.0390596,1,short_head,Rushmore (1998),Comedy|Drama
+318,334,4.0322776,2,short_head,Vanya on 42nd Street (1994),Drama
+318,1106,4.0261164,3,short_head,,
+318,1144,4.0239515,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+318,1252,4.023704,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+319,2395,4.0056653,1,short_head,Rushmore (1998),Comedy|Drama
+319,2158,3.8837888,2,long_tail,,
+319,334,3.998711,3,short_head,Vanya on 42nd Street (1994),Drama
+319,1106,3.992394,4,short_head,,
+319,1144,3.9901745,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+320,2395,3.7173724,1,short_head,Rushmore (1998),Comedy|Drama
+320,334,3.7090907,2,short_head,Vanya on 42nd Street (1994),Drama
+320,1106,3.7015078,3,short_head,,
+320,1144,3.698883,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+320,1252,3.6985126,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+321,2395,3.5361373,1,short_head,Rushmore (1998),Comedy|Drama
+321,334,3.5253968,2,short_head,Vanya on 42nd Street (1994),Drama
+321,1106,3.5175261,3,short_head,,
+321,1144,3.514265,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+321,2829,3.503858,5,short_head,"Muse, The (1999)",Comedy
+322,2395,3.363156,1,short_head,Rushmore (1998),Comedy|Drama
+322,334,3.3511915,2,short_head,Vanya on 42nd Street (1994),Drama
+322,1106,3.3426335,3,short_head,,
+322,1144,3.339083,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+322,1252,3.3380275,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+323,2395,3.7475233,1,short_head,Rushmore (1998),Comedy|Drama
+323,2158,3.603132,2,long_tail,,
+323,334,3.7393298,3,short_head,Vanya on 42nd Street (1994),Drama
+323,1106,3.73189,4,short_head,,
+323,1144,3.7292938,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+324,2395,3.8319836,1,short_head,Rushmore (1998),Comedy|Drama
+324,2158,3.6958194,2,long_tail,,
+324,334,3.8241947,3,short_head,Vanya on 42nd Street (1994),Drama
+324,1106,3.817167,4,short_head,,
+324,1144,3.8146224,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+325,2395,4.1688194,1,short_head,Rushmore (1998),Comedy|Drama
+325,2158,4.0622215,2,long_tail,,
+325,334,4.16283,3,short_head,Vanya on 42nd Street (1994),Drama
+325,1106,4.15718,4,short_head,,
+325,1144,4.1552687,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+326,2395,4.116963,1,short_head,Rushmore (1998),Comedy|Drama
+326,334,4.1106234,2,short_head,Vanya on 42nd Street (1994),Drama
+326,1106,4.104786,3,short_head,,
+326,1144,4.1027794,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+326,1252,4.102543,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+327,2395,3.3833287,1,short_head,Rushmore (1998),Comedy|Drama
+327,334,3.3714948,2,short_head,Vanya on 42nd Street (1994),Drama
+327,1144,3.3595107,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+327,1252,3.3584824,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+327,2829,3.348168,5,short_head,"Muse, The (1999)",Comedy
+328,2395,3.64831,1,short_head,Rushmore (1998),Comedy|Drama
+328,334,3.6391954,2,short_head,Vanya on 42nd Street (1994),Drama
+328,1144,3.6286151,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+328,1252,3.6279204,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+328,2829,3.619579,5,short_head,"Muse, The (1999)",Comedy
+329,2395,3.7435455,1,short_head,Rushmore (1998),Comedy|Drama
+329,334,3.735378,2,short_head,Vanya on 42nd Street (1994),Drama
+329,1106,3.728034,3,short_head,,
+329,1144,3.7253351,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+329,1252,3.7250237,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+330,2395,3.8803182,1,short_head,Rushmore (1998),Comedy|Drama
+330,334,3.8726826,2,short_head,Vanya on 42nd Street (1994),Drama
+330,1106,3.8657615,3,short_head,,
+330,1144,3.8633811,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+330,1252,3.863075,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+331,1106,3.727148,1,short_head,,
+331,1144,3.7245796,2,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+331,1252,3.7242703,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+331,2158,3.5974014,4,long_tail,,
+331,2829,3.7173247,5,short_head,"Muse, The (1999)",Comedy
+332,2395,3.633765,1,short_head,Rushmore (1998),Comedy|Drama
+332,2158,3.4687705,2,long_tail,,
+332,334,3.6243682,3,short_head,Vanya on 42nd Street (1994),Drama
+332,1106,3.6167672,4,short_head,,
+332,1144,3.613885,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+333,2395,3.545623,1,short_head,Rushmore (1998),Comedy|Drama
+333,334,3.5348895,2,short_head,Vanya on 42nd Street (1994),Drama
+333,1106,3.527045,3,short_head,,
+333,1144,3.5237799,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+333,1252,3.5229838,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+334,2395,3.6842484,1,short_head,Rushmore (1998),Comedy|Drama
+334,334,3.6756446,2,short_head,Vanya on 42nd Street (1994),Drama
+334,1106,3.6679277,3,short_head,,
+334,1144,3.6652372,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+334,1252,3.6646967,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+335,2395,4.072908,1,short_head,Rushmore (1998),Comedy|Drama
+335,334,4.066306,2,short_head,Vanya on 42nd Street (1994),Drama
+335,1106,4.0603223,3,short_head,,
+335,1144,4.058226,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+335,1252,4.0579715,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+336,2395,4.130822,1,short_head,Rushmore (1998),Comedy|Drama
+336,334,4.124523,2,short_head,Vanya on 42nd Street (1994),Drama
+336,1106,4.118826,3,short_head,,
+336,1144,4.1168447,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+336,1252,4.1165967,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+337,2395,3.5378375,1,short_head,Rushmore (1998),Comedy|Drama
+337,2158,3.361721,2,long_tail,,
+337,334,3.5270824,3,short_head,Vanya on 42nd Street (1994),Drama
+337,1106,3.5190864,4,short_head,,
+337,1144,3.515851,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+338,2395,4.1863227,1,short_head,Rushmore (1998),Comedy|Drama
+338,2158,4.081436,2,long_tail,,
+338,334,4.1803164,3,short_head,Vanya on 42nd Street (1994),Drama
+338,1144,4.1730156,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+338,2400,4.1531563,5,short_head,Prancer (1989),Children|Drama|Fantasy
+339,2395,3.8221705,1,short_head,Rushmore (1998),Comedy|Drama
+339,334,3.8142762,2,short_head,Vanya on 42nd Street (1994),Drama
+339,1106,3.807182,3,short_head,,
+339,1144,3.804678,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+339,1252,3.80436,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+340,2395,3.9946241,1,short_head,Rushmore (1998),Comedy|Drama
+340,2158,3.8717854,2,long_tail,,
+340,334,3.9875424,3,short_head,Vanya on 42nd Street (1994),Drama
+340,1106,3.9812489,4,short_head,,
+340,1144,3.9790227,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+341,2395,3.5630598,1,short_head,Rushmore (1998),Comedy|Drama
+341,2158,3.390101,2,long_tail,,
+341,334,3.5525477,3,short_head,Vanya on 42nd Street (1994),Drama
+341,1106,3.5451994,4,short_head,,
+341,1144,3.5418468,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+342,2395,3.9664152,1,short_head,Rushmore (1998),Comedy|Drama
+342,334,3.959239,2,short_head,Vanya on 42nd Street (1994),Drama
+342,1106,3.9527383,3,short_head,,
+342,1144,3.9504874,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+342,1252,3.9501991,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+343,2395,3.7914033,1,short_head,Rushmore (1998),Comedy|Drama
+343,334,3.7833955,2,short_head,Vanya on 42nd Street (1994),Drama
+343,1106,3.7761877,3,short_head,,
+343,1144,3.7736309,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+343,1252,3.7733212,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+344,2395,4.085854,1,short_head,Rushmore (1998),Comedy|Drama
+344,2158,3.9712727,2,long_tail,,
+344,334,4.0793414,3,short_head,Vanya on 42nd Street (1994),Drama
+344,1106,4.0733795,4,short_head,,
+344,1144,4.07132,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+345,2395,3.8869662,1,short_head,Rushmore (1998),Comedy|Drama
+345,2158,3.7550926,2,long_tail,,
+345,334,3.8793612,3,short_head,Vanya on 42nd Street (1994),Drama
+345,1144,3.870195,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+345,2829,3.8634825,5,short_head,"Muse, The (1999)",Comedy
+346,2395,3.5337505,1,short_head,Rushmore (1998),Comedy|Drama
+346,334,3.522942,2,short_head,Vanya on 42nd Street (1994),Drama
+346,1106,3.515049,3,short_head,,
+346,1144,3.5117948,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+346,1252,3.5109675,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+347,2395,4.1547647,1,short_head,Rushmore (1998),Comedy|Drama
+347,334,4.148612,2,short_head,Vanya on 42nd Street (1994),Drama
+347,1106,4.1430535,3,short_head,,
+347,1144,4.1410995,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+347,1252,4.1408806,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+348,2395,3.6957788,1,short_head,Rushmore (1998),Comedy|Drama
+348,334,3.687243,2,short_head,Vanya on 42nd Street (1994),Drama
+348,1106,3.6797872,3,short_head,,
+348,1144,3.6770463,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+348,1252,3.6767075,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+349,2395,3.5994716,1,short_head,Rushmore (1998),Comedy|Drama
+349,334,3.589549,2,short_head,Vanya on 42nd Street (1994),Drama
+349,1106,3.5818748,3,short_head,,
+349,1144,3.5787506,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+349,1252,3.5779872,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+350,2395,3.915571,1,short_head,Rushmore (1998),Comedy|Drama
+350,2158,3.785926,2,long_tail,,
+350,334,3.908156,3,short_head,Vanya on 42nd Street (1994),Drama
+350,1106,3.901386,4,short_head,,
+350,1144,3.8990145,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+351,2395,3.9808135,1,short_head,Rushmore (1998),Comedy|Drama
+351,334,3.9737594,2,short_head,Vanya on 42nd Street (1994),Drama
+351,1106,3.9674559,3,short_head,,
+351,1144,3.9651246,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+351,1252,3.9648361,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+352,2395,3.7811904,1,short_head,Rushmore (1998),Comedy|Drama
+352,334,3.7731352,2,short_head,Vanya on 42nd Street (1994),Drama
+352,1106,3.765857,3,short_head,,
+352,1144,3.7632747,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+352,1252,3.7629712,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+353,334,3.8354182,1,short_head,Vanya on 42nd Street (1994),Drama
+353,1106,3.828361,2,short_head,,
+353,1144,3.8258836,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+353,1252,3.8255854,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+353,2829,3.8189924,5,short_head,"Muse, The (1999)",Comedy
+354,2395,3.8908637,1,short_head,Rushmore (1998),Comedy|Drama
+354,2158,3.759266,2,long_tail,,
+354,1106,3.87649,3,short_head,,
+354,1144,3.8740802,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+354,1252,3.8737986,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+355,2395,4.115777,1,short_head,Rushmore (1998),Comedy|Drama
+355,334,4.1094947,2,short_head,Vanya on 42nd Street (1994),Drama
+355,2158,4.004123,3,long_tail,,
+355,1106,4.1037564,4,short_head,,
+355,1144,4.1016684,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+356,2395,4.112935,1,short_head,Rushmore (1998),Comedy|Drama
+356,334,4.1064324,2,short_head,Vanya on 42nd Street (1994),Drama
+356,2158,4.000984,3,long_tail,,
+356,1144,4.09879,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+356,1252,4.098541,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+357,2395,3.7903242,1,short_head,Rushmore (1998),Comedy|Drama
+357,2158,3.6506505,2,long_tail,,
+357,334,3.782311,3,short_head,Vanya on 42nd Street (1994),Drama
+357,1106,3.7750401,4,short_head,,
+357,1144,3.7725055,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+358,2395,3.716537,1,short_head,Rushmore (1998),Comedy|Drama
+358,334,3.7082233,2,short_head,Vanya on 42nd Street (1994),Drama
+358,1106,3.7006664,3,short_head,,
+358,1144,3.6979985,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+358,2829,3.6903775,5,short_head,"Muse, The (1999)",Comedy
+359,2395,3.7209373,1,short_head,Rushmore (1998),Comedy|Drama
+359,2158,3.5711126,2,long_tail,,
+359,334,3.7126846,3,short_head,Vanya on 42nd Street (1994),Drama
+359,1106,3.7053175,4,short_head,,
+359,1144,3.7026238,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+360,2395,3.568657,1,short_head,Rushmore (1998),Comedy|Drama
+360,334,3.5580802,2,short_head,Vanya on 42nd Street (1994),Drama
+360,1106,3.5504928,3,short_head,,
+360,1144,3.5472238,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+360,1252,3.546436,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+361,2395,4.0755405,1,short_head,Rushmore (1998),Comedy|Drama
+361,334,4.0689816,2,short_head,Vanya on 42nd Street (1994),Drama
+361,1144,4.0609097,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+361,1252,4.060656,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+361,2829,4.055069,5,short_head,"Muse, The (1999)",Comedy
+362,2395,3.6319687,1,short_head,Rushmore (1998),Comedy|Drama
+362,334,3.622613,2,short_head,Vanya on 42nd Street (1994),Drama
+362,1106,3.615029,3,short_head,,
+362,1144,3.6121023,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+362,1252,3.6113894,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+363,2395,3.9678276,1,short_head,Rushmore (1998),Comedy|Drama
+363,334,3.9606647,2,short_head,Vanya on 42nd Street (1994),Drama
+363,1106,3.9541552,3,short_head,,
+363,1144,3.951913,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+363,1252,3.9516284,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+364,2395,3.0986347,1,short_head,Rushmore (1998),Comedy|Drama
+364,2158,2.8940501,2,long_tail,,
+364,334,3.0856805,3,short_head,Vanya on 42nd Street (1994),Drama
+364,1106,3.0765624,4,short_head,,
+364,1144,3.0726516,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+365,2395,3.79799,1,short_head,Rushmore (1998),Comedy|Drama
+365,334,3.7900429,2,short_head,Vanya on 42nd Street (1994),Drama
+365,1106,3.782857,3,short_head,,
+365,1144,3.7803175,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+365,1252,3.7800055,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+366,2395,4.0941477,1,short_head,Rushmore (1998),Comedy|Drama
+366,2158,3.980254,2,long_tail,,
+366,1106,4.081669,3,short_head,,
+366,1144,4.079627,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+366,1252,4.0793796,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+367,2395,3.2144299,1,short_head,Rushmore (1998),Comedy|Drama
+367,2158,3.015328,2,long_tail,,
+367,334,3.2017536,3,short_head,Vanya on 42nd Street (1994),Drama
+367,1144,3.1891294,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+367,1252,3.1879659,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+368,2395,3.6935008,1,short_head,Rushmore (1998),Comedy|Drama
+368,334,3.6849623,2,short_head,Vanya on 42nd Street (1994),Drama
+368,1106,3.6772995,3,short_head,,
+368,1144,3.6746469,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+368,1252,3.6741762,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+369,2395,3.512373,1,short_head,Rushmore (1998),Comedy|Drama
+369,334,3.5013452,2,short_head,Vanya on 42nd Street (1994),Drama
+369,1106,3.493402,3,short_head,,
+369,1144,3.4900699,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+369,1252,3.4892192,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+370,2395,4.0638595,1,short_head,Rushmore (1998),Comedy|Drama
+370,334,4.057199,2,short_head,Vanya on 42nd Street (1994),Drama
+370,1106,4.0511436,3,short_head,,
+370,1144,4.049022,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+370,1252,4.0487804,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+371,334,3.5798252,1,short_head,Vanya on 42nd Street (1994),Drama
+371,2158,3.4196396,2,long_tail,,
+371,1106,3.5726185,3,short_head,,
+371,1144,3.5693665,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+371,1252,3.568489,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+372,2395,3.5541556,1,short_head,Rushmore (1998),Comedy|Drama
+372,334,3.5434172,2,short_head,Vanya on 42nd Street (1994),Drama
+372,1106,3.5356638,3,short_head,,
+372,1144,3.5324597,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+372,1252,3.5317028,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+373,2395,3.6319852,1,short_head,Rushmore (1998),Comedy|Drama
+373,334,3.6226382,2,short_head,Vanya on 42nd Street (1994),Drama
+373,1106,3.6150212,3,short_head,,
+373,1144,3.6121016,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+373,1252,3.6113558,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+374,2395,3.8944168,1,short_head,Rushmore (1998),Comedy|Drama
+374,334,3.886851,2,short_head,Vanya on 42nd Street (1994),Drama
+374,1106,3.8800726,3,short_head,,
+374,1144,3.8776662,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+374,1252,3.8773994,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+375,2395,4.0592594,1,short_head,Rushmore (1998),Comedy|Drama
+375,334,4.052597,2,short_head,Vanya on 42nd Street (1994),Drama
+375,1144,4.0443916,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+375,1252,4.044124,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+375,1133,4.02597,5,short_head,,
+376,2395,4.165844,1,short_head,Rushmore (1998),Comedy|Drama
+376,2158,4.058974,2,long_tail,,
+376,334,4.159764,3,short_head,Vanya on 42nd Street (1994),Drama
+376,1106,4.154247,4,short_head,,
+376,3503,4.035752,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+377,2395,3.8018398,1,short_head,Rushmore (1998),Comedy|Drama
+377,334,3.7939024,2,short_head,Vanya on 42nd Street (1994),Drama
+377,1106,3.786672,3,short_head,,
+377,1144,3.784137,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+377,1252,3.783839,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+378,2395,3.6151183,1,short_head,Rushmore (1998),Comedy|Drama
+378,334,3.6050847,2,short_head,Vanya on 42nd Street (1994),Drama
+378,1106,3.5975835,3,short_head,,
+378,1144,3.594508,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+378,1252,3.593811,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+379,2395,4.0026417,1,short_head,Rushmore (1998),Comedy|Drama
+379,2158,3.8800824,2,long_tail,,
+379,334,3.9955435,3,short_head,Vanya on 42nd Street (1994),Drama
+379,1106,3.9889119,4,short_head,,
+379,1144,3.9868104,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+380,2395,3.7902296,1,short_head,Rushmore (1998),Comedy|Drama
+380,334,3.782371,2,short_head,Vanya on 42nd Street (1994),Drama
+380,1106,3.7752018,3,short_head,,
+380,1144,3.7726924,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+380,1252,3.772329,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+381,1106,3.8833675,1,short_head,,
+381,2158,3.7666178,2,long_tail,,
+381,1144,3.8809726,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+381,2829,3.8743157,4,short_head,"Muse, The (1999)",Comedy
+381,2400,3.855984,5,short_head,Prancer (1989),Children|Drama|Fantasy
+382,2395,3.8751733,1,short_head,Rushmore (1998),Comedy|Drama
+382,2158,3.742475,2,long_tail,,
+382,334,3.8675761,3,short_head,Vanya on 42nd Street (1994),Drama
+382,1106,3.8607087,4,short_head,,
+382,1144,3.8582637,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+383,334,3.625658,1,short_head,Vanya on 42nd Street (1994),Drama
+383,2158,3.4699717,2,long_tail,,
+383,1106,3.6178074,3,short_head,,
+383,1144,3.6150184,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+383,1252,3.6143806,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+384,334,3.590602,1,short_head,Vanya on 42nd Street (1994),Drama
+384,2158,3.4314303,2,long_tail,,
+384,1106,3.582753,3,short_head,,
+384,1144,3.5797489,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+384,1252,3.5790942,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+385,2395,3.308443,1,short_head,Rushmore (1998),Comedy|Drama
+385,334,3.2960856,2,short_head,Vanya on 42nd Street (1994),Drama
+385,1106,3.2874975,3,short_head,,
+385,1144,3.2838235,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+385,1252,3.282714,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+386,2829,3.7022126,1,short_head,"Muse, The (1999)",Comedy
+386,2158,3.5796947,2,long_tail,,
+386,1133,3.6866772,3,short_head,,
+386,1248,3.6804578,4,short_head,Touch of Evil (1958),Crime|Film-Noir|Thriller
+386,3503,3.5448756,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+387,2395,3.8619137,1,short_head,Rushmore (1998),Comedy|Drama
+387,2158,3.727931,2,long_tail,,
+387,334,3.8544102,3,short_head,Vanya on 42nd Street (1994),Drama
+387,1106,3.8472674,4,short_head,,
+387,3503,3.6991858,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+388,2395,3.9383152,1,short_head,Rushmore (1998),Comedy|Drama
+388,334,3.9310093,2,short_head,Vanya on 42nd Street (1994),Drama
+388,1106,3.924391,3,short_head,,
+388,1144,3.9220614,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+388,1252,3.9217699,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+389,2395,3.985708,1,short_head,Rushmore (1998),Comedy|Drama
+389,2158,3.8619137,2,long_tail,,
+389,334,3.978512,3,short_head,Vanya on 42nd Street (1994),Drama
+389,1106,3.9719915,4,short_head,,
+389,1144,3.969812,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+390,1106,3.906949,1,short_head,,
+390,2158,3.7919047,2,long_tail,,
+390,1144,3.9046063,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+390,1252,3.9043105,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+390,2829,3.8980439,5,short_head,"Muse, The (1999)",Comedy
+391,2395,3.636366,1,short_head,Rushmore (1998),Comedy|Drama
+391,334,3.6269565,2,short_head,Vanya on 42nd Street (1994),Drama
+391,1106,3.6193461,3,short_head,,
+391,1144,3.6165216,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+391,1252,3.6157165,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+392,2395,3.93828,1,short_head,Rushmore (1998),Comedy|Drama
+392,334,3.930806,2,short_head,Vanya on 42nd Street (1994),Drama
+392,1106,3.9237313,3,short_head,,
+392,1144,3.921558,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+392,1252,3.9213324,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+393,2395,3.5603454,1,short_head,Rushmore (1998),Comedy|Drama
+393,334,3.5496807,2,short_head,Vanya on 42nd Street (1994),Drama
+393,1106,3.5419173,3,short_head,,
+393,1144,3.5387123,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+393,1252,3.5379343,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+394,2395,3.4557164,1,short_head,Rushmore (1998),Comedy|Drama
+394,334,3.4443867,2,short_head,Vanya on 42nd Street (1994),Drama
+394,1106,3.436278,3,short_head,,
+394,1144,3.4328551,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+394,1252,3.4320047,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+395,2395,3.6297119,1,short_head,Rushmore (1998),Comedy|Drama
+395,334,3.6203167,2,short_head,Vanya on 42nd Street (1994),Drama
+395,1106,3.612966,3,short_head,,
+395,1144,3.6100223,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+395,1252,3.6091793,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+396,2395,3.9040124,1,short_head,Rushmore (1998),Comedy|Drama
+396,2158,3.7735162,2,long_tail,,
+396,334,3.8965483,3,short_head,Vanya on 42nd Street (1994),Drama
+396,1106,3.8898263,4,short_head,,
+396,1144,3.887421,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+397,2395,4.042955,1,short_head,Rushmore (1998),Comedy|Drama
+397,1106,4.0299134,2,short_head,,
+397,2158,3.924329,3,long_tail,,
+397,1144,4.027801,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+397,1252,4.0275674,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+398,2395,3.7327142,1,short_head,Rushmore (1998),Comedy|Drama
+398,334,3.7244167,2,short_head,Vanya on 42nd Street (1994),Drama
+398,1106,3.7170024,3,short_head,,
+398,1144,3.7143183,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+398,1252,3.7139697,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+399,2395,4.0333567,1,short_head,Rushmore (1998),Comedy|Drama
+399,334,4.0265074,2,short_head,Vanya on 42nd Street (1994),Drama
+399,1106,4.0202646,3,short_head,,
+399,1144,4.0181136,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+399,1252,4.0178633,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+400,2395,3.7522335,1,short_head,Rushmore (1998),Comedy|Drama
+400,2158,3.6082828,2,long_tail,,
+400,334,3.7440073,3,short_head,Vanya on 42nd Street (1994),Drama
+400,1106,3.73667,4,short_head,,
+400,1144,3.7340493,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+401,2395,3.8835006,1,short_head,Rushmore (1998),Comedy|Drama
+401,334,3.8758585,2,short_head,Vanya on 42nd Street (1994),Drama
+401,1106,3.8690653,3,short_head,,
+401,1144,3.8666604,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+401,1252,3.8663564,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+402,2395,3.9651852,1,short_head,Rushmore (1998),Comedy|Drama
+402,334,3.9579988,2,short_head,Vanya on 42nd Street (1994),Drama
+402,1106,3.9514966,3,short_head,,
+402,1144,3.9492192,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+402,1252,3.9489408,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+403,2395,3.4440467,1,short_head,Rushmore (1998),Comedy|Drama
+403,334,3.4327092,2,short_head,Vanya on 42nd Street (1994),Drama
+403,1106,3.42447,3,short_head,,
+403,1144,3.421035,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+403,1252,3.4201927,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+404,2395,4.0519176,1,short_head,Rushmore (1998),Comedy|Drama
+404,2158,3.934267,2,long_tail,,
+404,334,4.0451965,3,short_head,Vanya on 42nd Street (1994),Drama
+404,1144,4.0369625,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+404,1252,4.0367117,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+405,2395,3.8175056,1,short_head,Rushmore (1998),Comedy|Drama
+405,334,3.8096166,2,short_head,Vanya on 42nd Street (1994),Drama
+405,1106,3.8024378,3,short_head,,
+405,1144,3.799942,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+405,1252,3.799644,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+406,2395,3.9114568,1,short_head,Rushmore (1998),Comedy|Drama
+406,334,3.9040155,2,short_head,Vanya on 42nd Street (1994),Drama
+406,1106,3.8972893,3,short_head,,
+406,1144,3.894912,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+406,1252,3.8946157,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+407,2395,4.1852446,1,short_head,Rushmore (1998),Comedy|Drama
+407,2158,4.0804086,2,long_tail,,
+407,334,4.1792994,3,short_head,Vanya on 42nd Street (1994),Drama
+407,1106,4.173942,4,short_head,,
+407,1144,4.172027,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+408,2395,3.9423556,1,short_head,Rushmore (1998),Comedy|Drama
+408,2158,3.8148642,2,long_tail,,
+408,1106,3.9282928,3,short_head,,
+408,1144,3.9260345,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+408,1252,3.9257727,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+409,2395,4.1834626,1,short_head,Rushmore (1998),Comedy|Drama
+409,2158,4.078427,2,long_tail,,
+409,334,4.1774697,3,short_head,Vanya on 42nd Street (1994),Drama
+409,1144,4.1701713,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+409,1252,4.1699543,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+410,2395,3.4752014,1,short_head,Rushmore (1998),Comedy|Drama
+410,334,3.4639978,2,short_head,Vanya on 42nd Street (1994),Drama
+410,1106,3.4559095,3,short_head,,
+410,1144,3.4525323,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+410,1252,3.451648,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+411,2395,3.9506416,1,short_head,Rushmore (1998),Comedy|Drama
+411,2158,3.824019,2,long_tail,,
+411,1144,3.9345682,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+411,1252,3.934281,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+411,2829,3.9281597,5,short_head,"Muse, The (1999)",Comedy
+412,2395,4.016985,1,short_head,Rushmore (1998),Comedy|Drama
+412,334,4.01011,2,short_head,Vanya on 42nd Street (1994),Drama
+412,1106,4.00396,3,short_head,,
+412,1144,4.001724,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+412,1252,4.0014453,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+413,1144,3.8104649,1,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+413,2158,3.691299,2,long_tail,,
+413,1252,3.810084,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+413,3503,3.6617682,4,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+413,2424,3.7820454,5,short_head,You've Got Mail (1998),Comedy|Romance
+414,2395,3.9816334,1,short_head,Rushmore (1998),Comedy|Drama
+414,334,3.9745636,2,short_head,Vanya on 42nd Street (1994),Drama
+414,1144,3.9659133,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+414,1252,3.965643,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+414,2829,3.9596286,5,short_head,"Muse, The (1999)",Comedy
+415,2395,3.5788007,1,short_head,Rushmore (1998),Comedy|Drama
+415,334,3.5682707,2,short_head,Vanya on 42nd Street (1994),Drama
+415,1106,3.5605803,3,short_head,,
+415,1144,3.5573888,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+415,1252,3.556614,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+416,2395,4.0899825,1,short_head,Rushmore (1998),Comedy|Drama
+416,334,4.0835204,2,short_head,Vanya on 42nd Street (1994),Drama
+416,1106,4.0775814,3,short_head,,
+416,1144,4.075526,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+416,1252,4.075274,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+417,2395,3.8479524,1,short_head,Rushmore (1998),Comedy|Drama
+417,334,3.8401732,2,short_head,Vanya on 42nd Street (1994),Drama
+417,1106,3.8330789,3,short_head,,
+417,1144,3.8306365,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+417,1252,3.8303509,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+418,2395,3.9461126,1,short_head,Rushmore (1998),Comedy|Drama
+418,2158,3.819004,2,long_tail,,
+418,334,3.9390829,3,short_head,Vanya on 42nd Street (1994),Drama
+418,1106,3.9321265,4,short_head,,
+418,1144,3.9298737,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+419,2395,4.0247006,1,short_head,Rushmore (1998),Comedy|Drama
+419,2158,3.9045768,2,long_tail,,
+419,1106,4.011676,3,short_head,,
+419,1144,4.0094857,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+419,2829,4.0033875,5,short_head,"Muse, The (1999)",Comedy
+420,2395,3.9730644,1,short_head,Rushmore (1998),Comedy|Drama
+420,334,3.9659283,2,short_head,Vanya on 42nd Street (1994),Drama
+420,1106,3.959448,3,short_head,,
+420,1144,3.9571843,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+420,1252,3.9569137,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+421,2395,3.6982486,1,short_head,Rushmore (1998),Comedy|Drama
+421,2158,3.544733,2,long_tail,,
+421,334,3.6896987,3,short_head,Vanya on 42nd Street (1994),Drama
+421,1144,3.679504,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+421,1252,3.679156,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+422,2395,3.7840118,1,short_head,Rushmore (1998),Comedy|Drama
+422,334,3.775875,2,short_head,Vanya on 42nd Street (1994),Drama
+422,1106,3.7683105,3,short_head,,
+422,1144,3.7658584,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+422,1252,3.765584,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+423,2395,3.8621318,1,short_head,Rushmore (1998),Comedy|Drama
+423,334,3.854458,2,short_head,Vanya on 42nd Street (1994),Drama
+423,1144,3.845036,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+423,1252,3.8447657,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+423,2829,3.8382542,5,short_head,"Muse, The (1999)",Comedy
+424,2395,3.6397772,1,short_head,Rushmore (1998),Comedy|Drama
+424,334,3.6307406,2,short_head,Vanya on 42nd Street (1994),Drama
+424,1106,3.623033,3,short_head,,
+424,1144,3.6201417,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+424,1252,3.6194549,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+425,2395,3.7427068,1,short_head,Rushmore (1998),Comedy|Drama
+425,334,3.7344863,2,short_head,Vanya on 42nd Street (1994),Drama
+425,1106,3.7269616,3,short_head,,
+425,1144,3.724357,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+425,1252,3.724061,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+426,2395,3.5499015,1,short_head,Rushmore (1998),Comedy|Drama
+426,2158,3.3751912,2,long_tail,,
+426,334,3.5392025,3,short_head,Vanya on 42nd Street (1994),Drama
+426,1106,3.531411,4,short_head,,
+426,1144,3.5281558,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+427,2395,3.1512156,1,short_head,Rushmore (1998),Comedy|Drama
+427,334,3.138288,2,short_head,Vanya on 42nd Street (1994),Drama
+427,1106,3.1294026,3,short_head,,
+427,1144,3.1255522,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+427,1252,3.1243446,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+428,2395,4.0763397,1,short_head,Rushmore (1998),Comedy|Drama
+428,2158,3.9608812,2,long_tail,,
+428,334,4.0697436,3,short_head,Vanya on 42nd Street (1994),Drama
+428,1106,4.0637937,4,short_head,,
+428,1144,4.061695,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+429,2395,3.9585009,1,short_head,Rushmore (1998),Comedy|Drama
+429,334,3.9513125,2,short_head,Vanya on 42nd Street (1994),Drama
+429,1106,3.9447398,3,short_head,,
+429,1144,3.9424434,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+429,1252,3.9421973,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+430,2395,3.7310507,1,short_head,Rushmore (1998),Comedy|Drama
+430,334,3.7227893,2,short_head,Vanya on 42nd Street (1994),Drama
+430,1106,3.7152905,3,short_head,,
+430,1144,3.7126648,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+430,1252,3.7123492,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+431,2395,3.8764942,1,short_head,Rushmore (1998),Comedy|Drama
+431,2158,3.7437246,2,long_tail,,
+431,334,3.8688123,3,short_head,Vanya on 42nd Street (1994),Drama
+431,1106,3.8619857,4,short_head,,
+431,1144,3.8595462,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+432,2395,3.7195466,1,short_head,Rushmore (1998),Comedy|Drama
+432,334,3.7112231,2,short_head,Vanya on 42nd Street (1994),Drama
+432,1106,3.7036254,3,short_head,,
+432,1144,3.7009919,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+432,1252,3.7006924,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+433,2395,3.8767343,1,short_head,Rushmore (1998),Comedy|Drama
+433,334,3.8691864,2,short_head,Vanya on 42nd Street (1994),Drama
+433,1106,3.862225,3,short_head,,
+433,1144,3.8598232,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+433,1252,3.8595378,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+434,2395,4.083493,1,short_head,Rushmore (1998),Comedy|Drama
+434,334,4.0769577,2,short_head,Vanya on 42nd Street (1994),Drama
+434,1106,4.0709743,3,short_head,,
+434,1144,4.068905,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+434,1252,4.0686474,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+435,2395,3.5183988,1,short_head,Rushmore (1998),Comedy|Drama
+435,334,3.5073986,2,short_head,Vanya on 42nd Street (1994),Drama
+435,1106,3.499412,3,short_head,,
+435,1144,3.4960935,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+435,1252,3.4952712,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+436,334,3.970989,1,short_head,Vanya on 42nd Street (1994),Drama
+436,1106,3.9644995,2,short_head,,
+436,1144,3.9622517,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+436,1252,3.9619827,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+436,2829,3.955953,5,short_head,"Muse, The (1999)",Comedy
+437,2395,3.7611437,1,short_head,Rushmore (1998),Comedy|Drama
+437,2158,3.6185203,2,long_tail,,
+437,334,3.7530315,3,short_head,Vanya on 42nd Street (1994),Drama
+437,1106,3.745456,4,short_head,,
+437,1144,3.7429378,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+438,2395,3.758636,1,short_head,Rushmore (1998),Comedy|Drama
+438,334,3.7505856,2,short_head,Vanya on 42nd Street (1994),Drama
+438,1106,3.7431607,3,short_head,,
+438,1144,3.740591,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+438,1252,3.7402773,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+439,2395,3.9526784,1,short_head,Rushmore (1998),Comedy|Drama
+439,334,3.9454594,2,short_head,Vanya on 42nd Street (1994),Drama
+439,1106,3.938897,3,short_head,,
+439,1144,3.936594,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+439,1252,3.936318,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+440,2395,4.131206,1,short_head,Rushmore (1998),Comedy|Drama
+440,334,4.124981,2,short_head,Vanya on 42nd Street (1994),Drama
+440,1106,4.1192336,3,short_head,,
+440,1144,4.1172366,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+440,1252,4.117004,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+441,2395,3.4299517,1,short_head,Rushmore (1998),Comedy|Drama
+441,334,3.4184365,2,short_head,Vanya on 42nd Street (1994),Drama
+441,1106,3.410223,3,short_head,,
+441,1144,3.4068155,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+441,1252,3.4059472,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+442,2395,3.8713622,1,short_head,Rushmore (1998),Comedy|Drama
+442,334,3.8637204,2,short_head,Vanya on 42nd Street (1994),Drama
+442,1106,3.856821,3,short_head,,
+442,1144,3.8543854,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+442,1252,3.8540938,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+443,2395,3.77253,1,short_head,Rushmore (1998),Comedy|Drama
+443,334,3.764636,2,short_head,Vanya on 42nd Street (1994),Drama
+443,1106,3.7570908,3,short_head,,
+443,1144,3.7545407,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+443,1252,3.7542355,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+444,2395,3.7579951,1,short_head,Rushmore (1998),Comedy|Drama
+444,1106,3.7423816,2,short_head,,
+444,1144,3.7398052,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+444,1252,3.7395108,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+444,2829,3.732596,5,short_head,"Muse, The (1999)",Comedy
+445,2395,3.508329,1,short_head,Rushmore (1998),Comedy|Drama
+445,334,3.4972212,2,short_head,Vanya on 42nd Street (1994),Drama
+445,1106,3.4892395,3,short_head,,
+445,1144,3.4858916,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+445,1252,3.4850678,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+446,2395,3.894919,1,short_head,Rushmore (1998),Comedy|Drama
+446,334,3.8873525,2,short_head,Vanya on 42nd Street (1994),Drama
+446,1106,3.8805082,3,short_head,,
+446,1144,3.8780856,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+446,1252,3.877852,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+447,2395,3.1220307,1,short_head,Rushmore (1998),Comedy|Drama
+447,2158,2.9170666,2,long_tail,,
+447,334,3.1089597,3,short_head,Vanya on 42nd Street (1994),Drama
+447,1106,3.1000173,4,short_head,,
+447,1252,3.094954,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+448,2395,3.5906515,1,short_head,Rushmore (1998),Comedy|Drama
+448,334,3.5802472,2,short_head,Vanya on 42nd Street (1994),Drama
+448,1106,3.5724618,3,short_head,,
+448,1144,3.569347,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+448,1252,3.5685706,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+449,2395,3.9312096,1,short_head,Rushmore (1998),Comedy|Drama
+449,2158,3.8027701,2,long_tail,,
+449,334,3.9238029,3,short_head,Vanya on 42nd Street (1994),Drama
+449,1106,3.916906,4,short_head,,
+449,1144,3.914697,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+450,2395,3.924655,1,short_head,Rushmore (1998),Comedy|Drama
+450,334,3.9172764,2,short_head,Vanya on 42nd Street (1994),Drama
+450,1106,3.9105964,3,short_head,,
+450,1144,3.9082384,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+450,1252,3.907952,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+451,2395,4.332137,1,short_head,Rushmore (1998),Comedy|Drama
+451,334,4.3270054,2,short_head,Vanya on 42nd Street (1994),Drama
+451,1106,4.322468,3,short_head,,
+451,1144,4.3208604,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+451,1252,4.3206635,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+452,2395,4.062696,1,short_head,Rushmore (1998),Comedy|Drama
+452,334,4.056104,2,short_head,Vanya on 42nd Street (1994),Drama
+452,1106,4.050046,3,short_head,,
+452,2158,3.945947,4,long_tail,,
+452,1144,4.0478954,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+453,2395,3.8536472,1,short_head,Rushmore (1998),Comedy|Drama
+453,2158,3.7191072,2,long_tail,,
+453,334,3.8459466,3,short_head,Vanya on 42nd Street (1994),Drama
+453,1144,3.8364878,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+453,1252,3.8362024,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+454,2395,3.5579836,1,short_head,Rushmore (1998),Comedy|Drama
+454,334,3.5474327,2,short_head,Vanya on 42nd Street (1994),Drama
+454,1106,3.53953,3,short_head,,
+454,1144,3.5362964,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+454,1252,3.5355115,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+455,2395,3.9790335,1,short_head,Rushmore (1998),Comedy|Drama
+455,2158,3.854824,2,long_tail,,
+455,334,3.9719305,3,short_head,Vanya on 42nd Street (1994),Drama
+455,1106,3.9654698,4,short_head,,
+455,1144,3.9632287,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+456,2395,3.6272871,1,short_head,Rushmore (1998),Comedy|Drama
+456,334,3.6176362,2,short_head,Vanya on 42nd Street (1994),Drama
+456,1106,3.6100674,3,short_head,,
+456,1144,3.6071215,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+456,1252,3.6064343,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+457,2395,4.0295544,1,short_head,Rushmore (1998),Comedy|Drama
+457,334,4.02273,2,short_head,Vanya on 42nd Street (1994),Drama
+457,1106,4.016535,3,short_head,,
+457,1144,4.0143538,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+457,1252,4.014096,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+458,2395,4.0193434,1,short_head,Rushmore (1998),Comedy|Drama
+458,334,4.0124516,2,short_head,Vanya on 42nd Street (1994),Drama
+458,1106,4.006215,3,short_head,,
+458,1144,4.0040092,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+458,1252,4.003734,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+459,2395,4.119099,1,short_head,Rushmore (1998),Comedy|Drama
+459,334,4.112865,2,short_head,Vanya on 42nd Street (1994),Drama
+459,1106,4.1070313,3,short_head,,
+459,1144,4.1050096,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+459,1252,4.104766,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+460,2395,3.7189033,1,short_head,Rushmore (1998),Comedy|Drama
+460,334,3.7106001,2,short_head,Vanya on 42nd Street (1994),Drama
+460,1106,3.7030325,3,short_head,,
+460,1144,3.7004118,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+460,1252,3.7001004,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+461,2395,3.7727923,1,short_head,Rushmore (1998),Comedy|Drama
+461,2158,3.630829,2,long_tail,,
+461,1144,3.7547607,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+461,2829,3.747622,4,short_head,"Muse, The (1999)",Comedy
+461,3503,3.5986593,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+462,2395,3.8462422,1,short_head,Rushmore (1998),Comedy|Drama
+462,334,3.838513,2,short_head,Vanya on 42nd Street (1994),Drama
+462,1106,3.831468,3,short_head,,
+462,1144,3.829007,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+462,1252,3.8287125,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+463,2395,3.8673773,1,short_head,Rushmore (1998),Comedy|Drama
+463,334,3.859816,2,short_head,Vanya on 42nd Street (1994),Drama
+463,1106,3.8531008,3,short_head,,
+463,1144,3.8505888,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+463,2158,3.7341309,5,long_tail,,
+464,2395,4.111339,1,short_head,Rushmore (1998),Comedy|Drama
+464,334,4.1049623,2,short_head,Vanya on 42nd Street (1994),Drama
+464,1252,4.0968785,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+464,2829,4.0914636,4,short_head,"Muse, The (1999)",Comedy
+464,2158,3.9991884,5,long_tail,,
+465,2395,4.0028462,1,short_head,Rushmore (1998),Comedy|Drama
+465,334,3.9958858,2,short_head,Vanya on 42nd Street (1994),Drama
+465,1106,3.9894688,3,short_head,,
+465,1144,3.9872885,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+465,1252,3.9870431,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+466,2395,3.8176231,1,short_head,Rushmore (1998),Comedy|Drama
+466,2158,3.6803052,2,long_tail,,
+466,334,3.809745,3,short_head,Vanya on 42nd Street (1994),Drama
+466,1106,3.802614,4,short_head,,
+466,1144,3.8000913,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+467,2395,3.5383282,1,short_head,Rushmore (1998),Comedy|Drama
+467,334,3.527523,2,short_head,Vanya on 42nd Street (1994),Drama
+467,1106,3.5196674,3,short_head,,
+467,1144,3.5162978,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+467,1252,3.5155644,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+468,1252,3.9478588,1,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+468,2158,3.8385916,2,long_tail,,
+468,2829,3.9417794,3,short_head,"Muse, The (1999)",Comedy
+468,1133,3.9284773,4,short_head,,
+468,1248,3.9228346,5,short_head,Touch of Evil (1958),Crime|Film-Noir|Thriller
+469,2395,3.5620704,1,short_head,Rushmore (1998),Comedy|Drama
+469,334,3.551414,2,short_head,Vanya on 42nd Street (1994),Drama
+469,1106,3.5436583,3,short_head,,
+469,1144,3.5404468,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+469,1252,3.5396745,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+470,2395,3.8622258,1,short_head,Rushmore (1998),Comedy|Drama
+470,334,3.8545582,2,short_head,Vanya on 42nd Street (1994),Drama
+470,1106,3.8475795,3,short_head,,
+470,1144,3.8451443,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+470,1252,3.8448558,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+471,2395,3.916234,1,short_head,Rushmore (1998),Comedy|Drama
+471,334,3.9087858,2,short_head,Vanya on 42nd Street (1994),Drama
+471,1106,3.9020853,3,short_head,,
+471,1144,3.8997283,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+471,1252,3.899441,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+472,2395,3.7443833,1,short_head,Rushmore (1998),Comedy|Drama
+472,2158,3.5996413,2,long_tail,,
+472,334,3.7361755,3,short_head,Vanya on 42nd Street (1994),Drama
+472,1106,3.7287164,4,short_head,,
+472,1144,3.7261114,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+473,2829,3.795403,1,short_head,"Muse, The (1999)",Comedy
+473,2076,3.6354198,2,long_tail,Blue Velvet (1986),Drama|Mystery|Thriller
+473,1133,3.7805746,3,short_head,,
+473,3162,3.6144853,4,long_tail,Simpatico (1999),Comedy|Drama
+473,1248,3.7746265,5,short_head,Touch of Evil (1958),Crime|Film-Noir|Thriller
+474,2395,4.2882986,1,short_head,Rushmore (1998),Comedy|Drama
+474,334,4.2829356,2,short_head,Vanya on 42nd Street (1994),Drama
+474,1106,4.2780094,3,short_head,,
+474,1144,4.2763395,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+474,1252,4.276143,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+475,2395,3.7746282,1,short_head,Rushmore (1998),Comedy|Drama
+475,334,3.7665105,2,short_head,Vanya on 42nd Street (1994),Drama
+475,1106,3.7591002,3,short_head,,
+475,1144,3.7565618,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+475,1252,3.756258,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+476,1144,3.9743986,1,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+476,2158,3.8668141,2,long_tail,,
+476,1252,3.974123,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+476,2829,3.9681542,4,short_head,"Muse, The (1999)",Comedy
+476,1133,3.9548635,5,short_head,,
+477,2395,3.5948462,1,short_head,Rushmore (1998),Comedy|Drama
+477,334,3.5844097,2,short_head,Vanya on 42nd Street (1994),Drama
+477,1106,3.5769293,3,short_head,,
+477,1144,3.5737717,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+477,1252,3.5729952,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+478,2395,3.7605124,1,short_head,Rushmore (1998),Comedy|Drama
+478,2158,3.6171384,2,long_tail,,
+478,1106,3.74503,3,short_head,,
+478,1144,3.74239,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+478,1252,3.7420666,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+479,2395,3.6485984,1,short_head,Rushmore (1998),Comedy|Drama
+479,2158,3.4853096,2,long_tail,,
+479,334,3.6395683,3,short_head,Vanya on 42nd Street (1994),Drama
+479,1106,3.6316452,4,short_head,,
+479,1144,3.6289797,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+480,2395,3.5498338,1,short_head,Rushmore (1998),Comedy|Drama
+480,2158,3.3750205,2,long_tail,,
+480,334,3.5390828,3,short_head,Vanya on 42nd Street (1994),Drama
+480,1106,3.5313444,4,short_head,,
+480,1144,3.5280595,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+481,2395,3.791251,1,short_head,Rushmore (1998),Comedy|Drama
+481,2158,3.651802,2,long_tail,,
+481,334,3.7833014,3,short_head,Vanya on 42nd Street (1994),Drama
+481,1106,3.7761834,4,short_head,,
+481,1144,3.7735918,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+482,2395,3.868649,1,short_head,Rushmore (1998),Comedy|Drama
+482,2158,3.735021,2,long_tail,,
+482,1106,3.8536286,3,short_head,,
+482,1144,3.8513563,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+482,1252,3.8510916,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+483,2395,4.1090093,1,short_head,Rushmore (1998),Comedy|Drama
+483,334,4.1025977,2,short_head,Vanya on 42nd Street (1994),Drama
+483,1106,4.0967283,3,short_head,,
+483,1144,4.094711,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+483,1252,4.0944676,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+484,2395,3.807944,1,short_head,Rushmore (1998),Comedy|Drama
+484,334,3.8000207,2,short_head,Vanya on 42nd Street (1994),Drama
+484,1106,3.792814,3,short_head,,
+484,1144,3.7902834,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+484,1252,3.7899888,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+485,2395,4.009685,1,short_head,Rushmore (1998),Comedy|Drama
+485,334,4.002728,2,short_head,Vanya on 42nd Street (1994),Drama
+485,1106,3.9964714,3,short_head,,
+485,1144,3.9942577,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+485,1252,3.994001,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+486,2395,3.5458975,1,short_head,Rushmore (1998),Comedy|Drama
+486,334,3.5350487,2,short_head,Vanya on 42nd Street (1994),Drama
+486,1106,3.5268922,3,short_head,,
+486,1144,3.5237684,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+486,1252,3.5230174,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+487,2395,4.008925,1,short_head,Rushmore (1998),Comedy|Drama
+487,1106,3.9956837,2,short_head,,
+487,3503,3.8610644,3,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+487,1144,3.993475,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+487,1252,3.9932032,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+488,1106,3.4002728,1,short_head,,
+488,2158,3.2341192,2,long_tail,,
+488,1144,3.396824,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+488,1252,3.395952,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+488,2829,3.3857493,5,short_head,"Muse, The (1999)",Comedy
+489,2395,3.4425402,1,short_head,Rushmore (1998),Comedy|Drama
+489,334,3.4310756,2,short_head,Vanya on 42nd Street (1994),Drama
+489,1106,3.4228668,3,short_head,,
+489,1144,3.419447,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+489,2829,3.4085524,5,short_head,"Muse, The (1999)",Comedy
+490,2395,4.077953,1,short_head,Rushmore (1998),Comedy|Drama
+490,334,4.071348,2,short_head,Vanya on 42nd Street (1994),Drama
+490,1106,4.0653477,3,short_head,,
+490,1144,4.0632653,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+490,1252,4.0630236,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+491,2395,4.103794,1,short_head,Rushmore (1998),Comedy|Drama
+491,2158,3.9909353,2,long_tail,,
+491,334,4.097362,3,short_head,Vanya on 42nd Street (1994),Drama
+491,1106,4.091552,4,short_head,,
+491,1144,4.0895076,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+492,2395,3.889458,1,short_head,Rushmore (1998),Comedy|Drama
+492,334,3.8819268,2,short_head,Vanya on 42nd Street (1994),Drama
+492,1106,3.875066,3,short_head,,
+492,1144,3.8726683,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+492,1252,3.8723783,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+493,334,3.868787,1,short_head,Vanya on 42nd Street (1994),Drama
+493,1106,3.8618674,2,short_head,,
+493,1144,3.859429,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+493,1252,3.8591454,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+493,2829,3.852696,5,short_head,"Muse, The (1999)",Comedy
+494,2395,4.154795,1,short_head,Rushmore (1998),Comedy|Drama
+494,334,4.1486983,2,short_head,Vanya on 42nd Street (1994),Drama
+494,1106,4.143055,3,short_head,,
+494,1144,4.141101,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+494,1252,4.14088,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+495,2395,3.8421657,1,short_head,Rushmore (1998),Comedy|Drama
+495,2158,3.7067423,2,long_tail,,
+495,334,3.8343835,3,short_head,Vanya on 42nd Street (1994),Drama
+495,1106,3.8273284,4,short_head,,
+495,1144,3.8247938,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+496,2395,3.603683,1,short_head,Rushmore (1998),Comedy|Drama
+496,334,3.5936232,2,short_head,Vanya on 42nd Street (1994),Drama
+496,1106,3.5860777,3,short_head,,
+496,1144,3.582931,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+496,1252,3.5819805,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+497,2395,3.8695197,1,short_head,Rushmore (1998),Comedy|Drama
+497,334,3.8618603,2,short_head,Vanya on 42nd Street (1994),Drama
+497,1106,3.8549209,3,short_head,,
+497,1144,3.852498,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+497,1252,3.8522086,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+498,2395,3.9550207,1,short_head,Rushmore (1998),Comedy|Drama
+498,2158,3.8287668,2,long_tail,,
+498,334,3.9478197,3,short_head,Vanya on 42nd Street (1994),Drama
+498,1106,3.9412513,4,short_head,,
+498,3503,3.801564,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+499,2395,3.6772285,1,short_head,Rushmore (1998),Comedy|Drama
+499,334,3.6685908,2,short_head,Vanya on 42nd Street (1994),Drama
+499,1106,3.6608922,3,short_head,,
+499,2158,3.519287,4,long_tail,,
+499,1144,3.6581783,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+500,2395,3.6532784,1,short_head,Rushmore (1998),Comedy|Drama
+500,334,3.6440253,2,short_head,Vanya on 42nd Street (1994),Drama
+500,2158,3.4905605,3,long_tail,,
+500,1106,3.6363854,4,short_head,,
+500,1144,3.6335578,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+501,2395,3.732703,1,short_head,Rushmore (1998),Comedy|Drama
+501,334,3.7245026,2,short_head,Vanya on 42nd Street (1994),Drama
+501,1106,3.717153,3,short_head,,
+501,1144,3.714477,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+501,1252,3.714149,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+502,2395,3.5611706,1,short_head,Rushmore (1998),Comedy|Drama
+502,2158,3.38748,2,long_tail,,
+502,334,3.5505104,3,short_head,Vanya on 42nd Street (1994),Drama
+502,1106,3.5427613,4,short_head,,
+502,1144,3.5395408,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+503,2395,4.0089087,1,short_head,Rushmore (1998),Comedy|Drama
+503,2158,3.887355,2,long_tail,,
+503,334,4.001972,3,short_head,Vanya on 42nd Street (1994),Drama
+503,1106,3.9956741,4,short_head,,
+503,1144,3.993455,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+504,2395,4.0572686,1,short_head,Rushmore (1998),Comedy|Drama
+504,2158,3.940164,2,long_tail,,
+504,334,4.0506086,3,short_head,Vanya on 42nd Street (1994),Drama
+504,1106,4.0446463,4,short_head,,
+504,1144,4.042462,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+505,2395,3.7188954,1,short_head,Rushmore (1998),Comedy|Drama
+505,2158,3.5691526,2,long_tail,,
+505,334,3.7107315,3,short_head,Vanya on 42nd Street (1994),Drama
+505,1106,3.7036123,4,short_head,,
+505,1144,3.7008014,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+506,2395,3.616903,1,short_head,Rushmore (1998),Comedy|Drama
+506,334,3.606979,2,short_head,Vanya on 42nd Street (1994),Drama
+506,1106,3.5994627,3,short_head,,
+506,1144,3.5963926,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+506,1252,3.5956736,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+507,2395,3.4032369,1,short_head,Rushmore (1998),Comedy|Drama
+507,334,3.391559,2,short_head,Vanya on 42nd Street (1994),Drama
+507,1106,3.383205,3,short_head,,
+507,1144,3.3797307,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+507,1252,3.37873,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+508,2395,3.5482786,1,short_head,Rushmore (1998),Comedy|Drama
+508,2158,3.3734286,2,long_tail,,
+508,334,3.53753,3,short_head,Vanya on 42nd Street (1994),Drama
+508,1106,3.5297954,4,short_head,,
+508,1144,3.5265539,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+509,2395,3.3654263,1,short_head,Rushmore (1998),Comedy|Drama
+509,334,3.3533833,2,short_head,Vanya on 42nd Street (1994),Drama
+509,1106,3.3449483,3,short_head,,
+509,1144,3.3413944,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+509,1252,3.3402948,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+510,2395,4.019037,1,short_head,Rushmore (1998),Comedy|Drama
+510,2158,3.89835,2,long_tail,,
+510,334,4.01215,3,short_head,Vanya on 42nd Street (1994),Drama
+510,1106,4.0059032,4,short_head,,
+510,1144,4.003707,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+511,2395,3.6190047,1,short_head,Rushmore (1998),Comedy|Drama
+511,334,3.6094937,2,short_head,Vanya on 42nd Street (1994),Drama
+511,1106,3.6014562,3,short_head,,
+511,1144,3.5985541,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+511,1252,3.59797,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+512,2395,3.7978015,1,short_head,Rushmore (1998),Comedy|Drama
+512,334,3.7898436,2,short_head,Vanya on 42nd Street (1994),Drama
+512,1106,3.7826443,3,short_head,,
+512,1144,3.7800894,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+512,1252,3.7797797,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+513,2395,3.6224108,1,short_head,Rushmore (1998),Comedy|Drama
+513,2158,3.455593,2,long_tail,,
+513,334,3.612673,3,short_head,Vanya on 42nd Street (1994),Drama
+513,1106,3.6051238,4,short_head,,
+513,1144,3.6021485,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+514,2395,4.08893,1,short_head,Rushmore (1998),Comedy|Drama
+514,334,4.08241,2,short_head,Vanya on 42nd Street (1994),Drama
+514,1106,4.0765066,3,short_head,,
+514,1144,4.074424,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+514,1252,4.074173,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+515,2395,3.8333523,1,short_head,Rushmore (1998),Comedy|Drama
+515,2158,3.6972146,2,long_tail,,
+515,334,3.8255646,3,short_head,Vanya on 42nd Street (1994),Drama
+515,1106,3.8184464,4,short_head,,
+515,1144,3.8159683,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+516,1106,2.9679995,1,short_head,,
+516,1144,2.9639206,2,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+516,1252,2.9626617,3,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+516,2829,2.95095,4,short_head,"Muse, The (1999)",Comedy
+516,1133,2.9282289,5,short_head,,
+517,2395,3.7916331,1,short_head,Rushmore (1998),Comedy|Drama
+517,334,3.783637,2,short_head,Vanya on 42nd Street (1994),Drama
+517,1106,3.7762575,3,short_head,,
+517,1144,3.773747,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+517,1252,3.7734551,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+518,2395,3.9895668,1,short_head,Rushmore (1998),Comedy|Drama
+518,334,3.9825118,2,short_head,Vanya on 42nd Street (1994),Drama
+518,1106,3.9761498,3,short_head,,
+518,1144,3.9739313,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+518,1252,3.973619,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+519,2395,4.0534787,1,short_head,Rushmore (1998),Comedy|Drama
+519,334,4.0468035,2,short_head,Vanya on 42nd Street (1994),Drama
+519,1106,4.0407925,3,short_head,,
+519,1144,4.038621,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+519,1252,4.0383477,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+520,2395,3.8158593,1,short_head,Rushmore (1998),Comedy|Drama
+520,334,3.8079813,2,short_head,Vanya on 42nd Street (1994),Drama
+520,1106,3.8007092,3,short_head,,
+520,1144,3.7982488,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+520,1252,3.797965,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+521,2395,3.8847375,1,short_head,Rushmore (1998),Comedy|Drama
+521,334,3.8772597,2,short_head,Vanya on 42nd Street (1994),Drama
+521,1106,3.8703988,3,short_head,,
+521,1144,3.86795,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+521,1252,3.867655,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+522,2395,4.2542458,1,short_head,Rushmore (1998),Comedy|Drama
+522,334,4.2487545,2,short_head,Vanya on 42nd Street (1994),Drama
+522,2158,4.156422,3,long_tail,,
+522,1106,4.2436438,4,short_head,,
+522,1144,4.2418995,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+523,2395,3.652925,1,short_head,Rushmore (1998),Comedy|Drama
+523,334,3.643859,2,short_head,Vanya on 42nd Street (1994),Drama
+523,1106,3.6361315,3,short_head,,
+523,1144,3.6332657,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+523,1252,3.632628,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+524,2395,3.799887,1,short_head,Rushmore (1998),Comedy|Drama
+524,2158,3.66107,2,long_tail,,
+524,334,3.791909,3,short_head,Vanya on 42nd Street (1994),Drama
+524,1106,3.7847283,4,short_head,,
+524,1144,3.7821875,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+525,2395,4.0855722,1,short_head,Rushmore (1998),Comedy|Drama
+525,2158,3.9709642,2,long_tail,,
+525,334,4.0790305,3,short_head,Vanya on 42nd Street (1994),Drama
+525,1106,4.073096,4,short_head,,
+525,1144,4.0710325,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+526,2395,4.1250315,1,short_head,Rushmore (1998),Comedy|Drama
+526,2158,4.0141373,2,long_tail,,
+526,334,4.1186957,3,short_head,Vanya on 42nd Street (1994),Drama
+526,1106,4.112937,4,short_head,,
+526,1144,4.110943,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+527,2395,3.5864022,1,short_head,Rushmore (1998),Comedy|Drama
+527,2158,3.4151862,2,long_tail,,
+527,334,3.5759428,3,short_head,Vanya on 42nd Street (1994),Drama
+527,1106,3.568214,4,short_head,,
+527,1144,3.5650563,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+528,2395,3.679809,1,short_head,Rushmore (1998),Comedy|Drama
+528,334,3.6714184,2,short_head,Vanya on 42nd Street (1994),Drama
+528,1106,3.663413,3,short_head,,
+528,1144,3.6607237,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+528,1252,3.6601546,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+529,2395,3.792873,1,short_head,Rushmore (1998),Comedy|Drama
+529,334,3.7848544,2,short_head,Vanya on 42nd Street (1994),Drama
+529,1106,3.7776163,3,short_head,,
+529,1144,3.7750683,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+529,1252,3.774772,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+530,2395,3.783122,1,short_head,Rushmore (1998),Comedy|Drama
+530,334,3.7750368,2,short_head,Vanya on 42nd Street (1994),Drama
+530,1106,3.7678158,3,short_head,,
+530,1144,3.7652519,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+530,1252,3.7649422,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+531,2395,4.0027504,1,short_head,Rushmore (1998),Comedy|Drama
+531,334,3.99578,2,short_head,Vanya on 42nd Street (1994),Drama
+531,1106,3.9894688,3,short_head,,
+531,1144,3.987261,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+531,1252,3.9869695,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+532,2395,4.0262303,1,short_head,Rushmore (1998),Comedy|Drama
+532,2158,3.9061804,2,long_tail,,
+532,334,4.01938,3,short_head,Vanya on 42nd Street (1994),Drama
+532,1106,4.0131435,4,short_head,,
+532,1144,4.010969,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+533,2395,4.1082783,1,short_head,Rushmore (1998),Comedy|Drama
+533,2158,3.9957926,2,long_tail,,
+533,334,4.1018763,3,short_head,Vanya on 42nd Street (1994),Drama
+533,1106,4.096046,4,short_head,,
+533,1144,4.094017,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+534,2395,3.6219106,1,short_head,Rushmore (1998),Comedy|Drama
+534,2158,3.455658,2,long_tail,,
+534,334,3.6124616,3,short_head,Vanya on 42nd Street (1994),Drama
+534,1106,3.6047416,4,short_head,,
+534,1144,3.6018631,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+535,2395,3.6832855,1,short_head,Rushmore (1998),Comedy|Drama
+535,334,3.6746483,2,short_head,Vanya on 42nd Street (1994),Drama
+535,1106,3.66691,3,short_head,,
+535,1144,3.6642373,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+535,1252,3.663677,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+536,2395,4.0232916,1,short_head,Rushmore (1998),Comedy|Drama
+536,2158,3.9029536,2,long_tail,,
+536,334,4.0164742,3,short_head,Vanya on 42nd Street (1994),Drama
+536,1106,4.010182,4,short_head,,
+536,1144,4.007987,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+537,2395,4.137099,1,short_head,Rushmore (1998),Comedy|Drama
+537,2158,4.0274205,2,long_tail,,
+537,334,4.130859,3,short_head,Vanya on 42nd Street (1994),Drama
+537,1106,4.125183,4,short_head,,
+537,1144,4.1232095,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+538,2395,3.8539383,1,short_head,Rushmore (1998),Comedy|Drama
+538,334,3.8463209,2,short_head,Vanya on 42nd Street (1994),Drama
+538,1106,3.839207,3,short_head,,
+538,1144,3.8367028,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+538,1252,3.836478,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+539,2395,3.7531424,1,short_head,Rushmore (1998),Comedy|Drama
+539,2158,3.6095212,2,long_tail,,
+539,334,3.7449832,3,short_head,Vanya on 42nd Street (1994),Drama
+539,1106,3.73757,4,short_head,,
+539,1144,3.734975,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+540,2395,3.7420998,1,short_head,Rushmore (1998),Comedy|Drama
+540,334,3.7338746,2,short_head,Vanya on 42nd Street (1994),Drama
+540,1106,3.7263966,3,short_head,,
+540,1144,3.7237833,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+540,1252,3.7234833,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+541,2395,3.6405506,1,short_head,Rushmore (1998),Comedy|Drama
+541,334,3.6314175,2,short_head,Vanya on 42nd Street (1994),Drama
+541,1106,3.6235573,3,short_head,,
+541,1144,3.6207275,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+541,1252,3.6200633,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+542,2395,4.196328,1,short_head,Rushmore (1998),Comedy|Drama
+542,2158,4.092589,2,long_tail,,
+542,334,4.1904716,3,short_head,Vanya on 42nd Street (1994),Drama
+542,1106,4.1851807,4,short_head,,
+542,1144,4.1832724,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+543,2395,3.9901872,1,short_head,Rushmore (1998),Comedy|Drama
+543,2158,3.8669267,2,long_tail,,
+543,334,3.9831364,3,short_head,Vanya on 42nd Street (1994),Drama
+543,1106,3.9767053,4,short_head,,
+543,1144,3.9744701,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+544,2395,3.8203094,1,short_head,Rushmore (1998),Comedy|Drama
+544,2158,3.6832113,2,long_tail,,
+544,334,3.8124504,3,short_head,Vanya on 42nd Street (1994),Drama
+544,1106,3.8053493,4,short_head,,
+544,1144,3.8028336,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+545,2395,3.8900318,1,short_head,Rushmore (1998),Comedy|Drama
+545,2158,3.758329,2,long_tail,,
+545,334,3.8825085,3,short_head,Vanya on 42nd Street (1994),Drama
+545,1106,3.8755944,4,short_head,,
+545,3503,3.7300348,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+546,2395,3.9905217,1,short_head,Rushmore (1998),Comedy|Drama
+546,2158,3.867253,2,long_tail,,
+546,334,3.983478,3,short_head,Vanya on 42nd Street (1994),Drama
+546,1106,3.9770732,4,short_head,,
+546,1144,3.9748464,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+547,2395,3.866857,1,short_head,Rushmore (1998),Comedy|Drama
+547,2158,3.7333674,2,long_tail,,
+547,334,3.8592253,3,short_head,Vanya on 42nd Street (1994),Drama
+547,1106,3.8523135,4,short_head,,
+547,1144,3.8498483,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+548,2395,3.6706946,1,short_head,Rushmore (1998),Comedy|Drama
+548,334,3.6618617,2,short_head,Vanya on 42nd Street (1994),Drama
+548,1106,3.6541677,3,short_head,,
+548,1144,3.651393,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+548,1252,3.6508975,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+549,2395,4.0309687,1,short_head,Rushmore (1998),Comedy|Drama
+549,334,4.0241537,2,short_head,Vanya on 42nd Street (1994),Drama
+549,1106,4.017929,3,short_head,,
+549,1144,4.015766,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+549,1252,4.0154924,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+550,2395,3.8517807,1,short_head,Rushmore (1998),Comedy|Drama
+550,334,3.8440986,2,short_head,Vanya on 42nd Street (1994),Drama
+550,1106,3.8371873,3,short_head,,
+550,1144,3.8347144,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+550,1252,3.8344197,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+551,2395,3.4920323,1,short_head,Rushmore (1998),Comedy|Drama
+551,334,3.4808817,2,short_head,Vanya on 42nd Street (1994),Drama
+551,1106,3.4727788,3,short_head,,
+551,1144,3.4694538,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+551,1252,3.4686222,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+552,2395,4.1578736,1,short_head,Rushmore (1998),Comedy|Drama
+552,334,4.151759,2,short_head,Vanya on 42nd Street (1994),Drama
+552,1106,4.1462545,3,short_head,,
+552,1144,4.1442842,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+552,1252,4.144041,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+553,2395,4.021639,1,short_head,Rushmore (1998),Comedy|Drama
+553,2158,3.9011672,2,long_tail,,
+553,334,4.01474,3,short_head,Vanya on 42nd Street (1994),Drama
+553,1106,4.0084453,4,short_head,,
+553,1144,4.0062585,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+554,2395,3.7813902,1,short_head,Rushmore (1998),Comedy|Drama
+554,2158,3.6409554,2,long_tail,,
+554,334,3.7732303,3,short_head,Vanya on 42nd Street (1994),Drama
+554,1106,3.7661295,4,short_head,,
+554,1144,3.7635407,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+555,2395,4.0627365,1,short_head,Rushmore (1998),Comedy|Drama
+555,2158,3.9459956,2,long_tail,,
+555,334,4.0560822,3,short_head,Vanya on 42nd Street (1994),Drama
+555,1106,4.050016,4,short_head,,
+555,1144,4.0479097,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+556,2395,3.7325966,1,short_head,Rushmore (1998),Comedy|Drama
+556,334,3.724393,2,short_head,Vanya on 42nd Street (1994),Drama
+556,1106,3.7170088,3,short_head,,
+556,1144,3.7143433,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+556,1252,3.714011,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+557,2395,4.0491815,1,short_head,Rushmore (1998),Comedy|Drama
+557,2158,3.9313033,2,long_tail,,
+557,334,4.0424995,3,short_head,Vanya on 42nd Street (1994),Drama
+557,1106,4.036559,4,short_head,,
+557,1144,4.03436,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+558,2395,3.472454,1,short_head,Rushmore (1998),Comedy|Drama
+558,334,3.461226,2,short_head,Vanya on 42nd Street (1994),Drama
+558,1106,3.4530911,3,short_head,,
+558,1144,3.449768,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+558,1252,3.4489176,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+559,2395,3.8274922,1,short_head,Rushmore (1998),Comedy|Drama
+559,2158,3.690796,2,long_tail,,
+559,334,3.8196168,3,short_head,Vanya on 42nd Street (1994),Drama
+559,1106,3.8124304,4,short_head,,
+559,1144,3.8100054,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+560,2395,3.6081176,1,short_head,Rushmore (1998),Comedy|Drama
+560,334,3.5980508,2,short_head,Vanya on 42nd Street (1994),Drama
+560,1144,3.5874035,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+560,1252,3.5866282,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+560,2829,3.5774946,5,short_head,"Muse, The (1999)",Comedy
+561,2395,4.1481338,1,short_head,Rushmore (1998),Comedy|Drama
+561,2158,4.039553,2,long_tail,,
+561,334,4.1419797,3,short_head,Vanya on 42nd Street (1994),Drama
+561,1106,4.136345,4,short_head,,
+561,1144,4.134379,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+562,2395,3.7366774,1,short_head,Rushmore (1998),Comedy|Drama
+562,2158,3.5910633,2,long_tail,,
+562,334,3.7285175,3,short_head,Vanya on 42nd Street (1994),Drama
+562,3503,3.5568275,4,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+562,1106,3.721436,5,short_head,,
+563,2395,3.9958403,1,short_head,Rushmore (1998),Comedy|Drama
+563,2158,3.8729942,2,long_tail,,
+563,334,3.9887927,3,short_head,Vanya on 42nd Street (1994),Drama
+563,1106,3.9823165,4,short_head,,
+563,1144,3.9801311,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+564,2395,3.6420038,1,short_head,Rushmore (1998),Comedy|Drama
+564,334,3.632891,2,short_head,Vanya on 42nd Street (1994),Drama
+564,1106,3.6250567,3,short_head,,
+564,1144,3.6222446,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+564,1252,3.6215594,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+565,2395,3.6314325,1,short_head,Rushmore (1998),Comedy|Drama
+565,334,3.6218855,2,short_head,Vanya on 42nd Street (1994),Drama
+565,1106,3.6140547,3,short_head,,
+565,1144,3.6111627,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+565,1252,3.6104367,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+566,2395,3.019242,1,short_head,Rushmore (1998),Comedy|Drama
+566,2158,2.820291,2,long_tail,,
+566,334,3.0059614,3,short_head,Vanya on 42nd Street (1994),Drama
+566,1106,2.9971375,4,short_head,,
+566,1144,2.9929578,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+567,2395,4.081992,1,short_head,Rushmore (1998),Comedy|Drama
+567,2158,3.9669137,2,long_tail,,
+567,334,4.075342,3,short_head,Vanya on 42nd Street (1994),Drama
+567,1106,4.0692816,4,short_head,,
+567,1144,4.0672383,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+568,2395,3.7390194,1,short_head,Rushmore (1998),Comedy|Drama
+568,334,3.7307522,2,short_head,Vanya on 42nd Street (1994),Drama
+568,1106,3.7231627,3,short_head,,
+568,1144,3.7205956,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+568,1252,3.7202907,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+569,2395,3.3847003,1,short_head,Rushmore (1998),Comedy|Drama
+569,334,3.3729768,2,short_head,Vanya on 42nd Street (1994),Drama
+569,1106,3.3645308,3,short_head,,
+569,1144,3.360979,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+569,1252,3.3599713,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+570,2158,3.268321,1,long_tail,,
+570,2395,3.4520464,2,short_head,Rushmore (1998),Comedy|Drama
+570,334,3.4406056,3,short_head,Vanya on 42nd Street (1994),Drama
+570,3503,3.227786,4,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+570,1106,3.4325666,5,short_head,,
+571,334,4.120825,1,short_head,Vanya on 42nd Street (1994),Drama
+571,2158,4.0165334,2,long_tail,,
+571,1144,4.1131616,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+571,1252,4.112883,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+571,2829,4.107529,5,short_head,"Muse, The (1999)",Comedy
+572,2395,4.1461954,1,short_head,Rushmore (1998),Comedy|Drama
+572,334,4.1400127,2,short_head,Vanya on 42nd Street (1994),Drama
+572,1106,4.1344457,3,short_head,,
+572,1144,4.1324587,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+572,1252,4.132222,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+573,2395,3.7363794,1,short_head,Rushmore (1998),Comedy|Drama
+573,334,3.7281272,2,short_head,Vanya on 42nd Street (1994),Drama
+573,1106,3.7205977,3,short_head,,
+573,1144,3.7179842,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+573,1252,3.7176924,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+574,2395,3.7928436,1,short_head,Rushmore (1998),Comedy|Drama
+574,2158,3.6536062,2,long_tail,,
+574,334,3.7848794,3,short_head,Vanya on 42nd Street (1994),Drama
+574,1106,3.777708,4,short_head,,
+574,3503,3.6229827,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+575,2395,3.7694514,1,short_head,Rushmore (1998),Comedy|Drama
+575,334,3.761361,2,short_head,Vanya on 42nd Street (1994),Drama
+575,1106,3.7539954,3,short_head,,
+575,1144,3.7514467,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+575,1252,3.751152,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+576,2395,3.7242782,1,short_head,Rushmore (1998),Comedy|Drama
+576,334,3.7160048,2,short_head,Vanya on 42nd Street (1994),Drama
+576,1106,3.708515,3,short_head,,
+576,1144,3.7058663,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+576,1252,3.7055407,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+577,2158,3.9183993,1,long_tail,,
+577,2395,4.0374465,2,short_head,Rushmore (1998),Comedy|Drama
+577,334,4.030658,3,short_head,Vanya on 42nd Street (1994),Drama
+577,3503,3.8926363,4,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+577,1106,4.024493,5,short_head,,
+578,2395,4.0788536,1,short_head,Rushmore (1998),Comedy|Drama
+578,334,4.072278,2,short_head,Vanya on 42nd Street (1994),Drama
+578,1106,4.066361,3,short_head,,
+578,1144,4.06426,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+578,1252,4.06399,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+579,2395,3.7758324,1,short_head,Rushmore (1998),Comedy|Drama
+579,2158,3.6349843,2,long_tail,,
+579,334,3.7678792,3,short_head,Vanya on 42nd Street (1994),Drama
+579,1106,3.7606204,4,short_head,,
+579,1252,3.7576602,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+580,2395,4.0799317,1,short_head,Rushmore (1998),Comedy|Drama
+580,334,4.0733786,2,short_head,Vanya on 42nd Street (1994),Drama
+580,1106,4.067415,3,short_head,,
+580,1144,4.065327,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+580,1252,4.0650854,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+581,2395,3.9221885,1,short_head,Rushmore (1998),Comedy|Drama
+581,334,3.9148254,2,short_head,Vanya on 42nd Street (1994),Drama
+581,1106,3.908111,3,short_head,,
+581,1144,3.9057553,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+581,1252,3.9054723,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+582,2395,3.6374662,1,short_head,Rushmore (1998),Comedy|Drama
+582,334,3.6282704,2,short_head,Vanya on 42nd Street (1994),Drama
+582,1106,3.620474,3,short_head,,
+582,1144,3.61765,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+582,1252,3.6169543,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+583,2395,4.018924,1,short_head,Rushmore (1998),Comedy|Drama
+583,334,4.0119333,2,short_head,Vanya on 42nd Street (1994),Drama
+583,1106,4.005454,3,short_head,,
+583,1144,4.0033565,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+583,1252,4.003125,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+584,2395,4.148926,1,short_head,Rushmore (1998),Comedy|Drama
+584,334,4.142765,2,short_head,Vanya on 42nd Street (1994),Drama
+584,1106,4.1371927,3,short_head,,
+584,1144,4.1352115,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+584,1252,4.134951,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+585,2395,4.2927036,1,short_head,Rushmore (1998),Comedy|Drama
+585,2158,4.1988616,2,long_tail,,
+585,334,4.287321,3,short_head,Vanya on 42nd Street (1994),Drama
+585,1106,4.2823963,4,short_head,,
+585,1144,4.2807546,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+586,2395,4.165756,1,short_head,Rushmore (1998),Comedy|Drama
+586,3503,4.035657,2,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+586,1106,4.1541777,3,short_head,,
+586,1144,4.152237,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+586,1252,4.152003,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+587,2395,3.5628037,1,short_head,Rushmore (1998),Comedy|Drama
+587,334,3.5521176,2,short_head,Vanya on 42nd Street (1994),Drama
+587,1106,3.5444317,3,short_head,,
+587,1144,3.5412219,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+587,1252,3.5404358,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+588,2395,3.9743445,1,short_head,Rushmore (1998),Comedy|Drama
+588,334,3.9672675,2,short_head,Vanya on 42nd Street (1994),Drama
+588,1106,3.9607406,3,short_head,,
+588,1144,3.9584816,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+588,1252,3.9582138,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+589,1252,3.7068188,1,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+589,2829,3.699664,2,short_head,"Muse, The (1999)",Comedy
+589,1133,3.6841764,3,short_head,,
+589,2424,3.6770682,4,short_head,You've Got Mail (1998),Comedy|Romance
+589,3503,3.5419486,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+590,2395,3.675636,1,short_head,Rushmore (1998),Comedy|Drama
+590,334,3.6668892,2,short_head,Vanya on 42nd Street (1994),Drama
+590,1106,3.6591911,3,short_head,,
+590,1144,3.6565053,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+590,1252,3.6558332,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+591,2395,3.7770941,1,short_head,Rushmore (1998),Comedy|Drama
+591,334,3.769013,2,short_head,Vanya on 42nd Street (1994),Drama
+591,1106,3.7617018,3,short_head,,
+591,1144,3.7591507,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+591,1252,3.758829,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+592,2395,3.3966665,1,short_head,Rushmore (1998),Comedy|Drama
+592,334,3.3849397,2,short_head,Vanya on 42nd Street (1994),Drama
+592,1106,3.3767257,3,short_head,,
+592,1144,3.373188,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+592,1252,3.3722558,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+593,2395,4.087401,1,short_head,Rushmore (1998),Comedy|Drama
+593,2158,3.973051,2,long_tail,,
+593,334,4.080946,3,short_head,Vanya on 42nd Street (1994),Drama
+593,1106,4.075046,4,short_head,,
+593,1144,4.072954,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+594,2395,4.023525,1,short_head,Rushmore (1998),Comedy|Drama
+594,334,4.0166306,2,short_head,Vanya on 42nd Street (1994),Drama
+594,1106,4.0103173,3,short_head,,
+594,1144,4.0081654,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+594,1252,4.0079174,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+595,2395,3.7846947,1,short_head,Rushmore (1998),Comedy|Drama
+595,2158,3.6444292,2,long_tail,,
+595,334,3.7766843,3,short_head,Vanya on 42nd Street (1994),Drama
+595,1106,3.7693093,4,short_head,,
+595,1144,3.7667894,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+596,334,4.1587105,1,short_head,Vanya on 42nd Street (1994),Drama
+596,2158,4.0578628,2,long_tail,,
+596,1144,4.1512413,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+596,1252,4.1510196,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+596,2829,4.1458473,5,short_head,"Muse, The (1999)",Comedy
+597,2395,3.7334468,1,short_head,Rushmore (1998),Comedy|Drama
+597,2158,3.585363,2,long_tail,,
+597,334,3.725178,3,short_head,Vanya on 42nd Street (1994),Drama
+597,1106,3.7177396,4,short_head,,
+597,1144,3.7151017,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+598,1252,2.8631938,1,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+598,2158,2.786549,2,long_tail,,
+598,2829,2.8533106,3,short_head,"Muse, The (1999)",Comedy
+598,2424,2.8262935,4,short_head,You've Got Mail (1998),Comedy|Romance
+598,3503,2.7850177,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+599,2395,3.301311,1,short_head,Rushmore (1998),Comedy|Drama
+599,2158,3.1070929,2,long_tail,,
+599,334,3.2889757,3,short_head,Vanya on 42nd Street (1994),Drama
+599,1106,3.280427,4,short_head,,
+599,1144,3.2767236,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+600,2395,4.197014,1,short_head,Rushmore (1998),Comedy|Drama
+600,334,4.191101,2,short_head,Vanya on 42nd Street (1994),Drama
+600,1106,4.1856713,3,short_head,,
+600,1144,4.1838274,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+600,1252,4.1836042,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+601,2395,3.5360198,1,short_head,Rushmore (1998),Comedy|Drama
+601,334,3.5252395,2,short_head,Vanya on 42nd Street (1994),Drama
+601,1106,3.5173483,3,short_head,,
+601,1144,3.5140994,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+601,1252,3.5132961,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+602,2395,3.9067464,1,short_head,Rushmore (1998),Comedy|Drama
+602,2158,3.7765477,2,long_tail,,
+602,1144,3.8902664,3,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+602,1252,3.889893,4,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+602,3162,3.7129996,5,long_tail,Simpatico (1999),Comedy|Drama
+603,2395,3.8434455,1,short_head,Rushmore (1998),Comedy|Drama
+603,2158,3.7081437,2,long_tail,,
+603,334,3.8357065,3,short_head,Vanya on 42nd Street (1994),Drama
+603,1106,3.8286722,4,short_head,,
+603,1144,3.8261857,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+604,2395,3.61253,1,short_head,Rushmore (1998),Comedy|Drama
+604,2158,3.4444137,2,long_tail,,
+604,334,3.6026044,3,short_head,Vanya on 42nd Street (1994),Drama
+604,1106,3.5950208,4,short_head,,
+604,1144,3.5919971,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+605,1106,4.0166407,1,short_head,,
+605,3503,3.8842273,2,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi
+605,2829,4.008457,3,short_head,"Muse, The (1999)",Comedy
+605,1133,3.9956138,4,short_head,,
+605,2076,3.8692334,5,long_tail,Blue Velvet (1986),Drama|Mystery|Thriller
+606,2395,3.9583378,1,short_head,Rushmore (1998),Comedy|Drama
+606,334,3.9510882,2,short_head,Vanya on 42nd Street (1994),Drama
+606,1106,3.9444833,3,short_head,,
+606,1144,3.9422112,4,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+606,1252,3.9419415,5,short_head,Chinatown (1974),Crime|Film-Noir|Mystery|Thriller
+607,2395,3.5176497,1,short_head,Rushmore (1998),Comedy|Drama
+607,2158,3.3395839,2,long_tail,,
+607,334,3.5065699,3,short_head,Vanya on 42nd Street (1994),Drama
+607,1106,3.4987214,4,short_head,,
+607,1144,3.495387,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+608,2395,3.5944626,1,short_head,Rushmore (1998),Comedy|Drama
+608,2158,3.424221,2,long_tail,,
+608,334,3.5842,3,short_head,Vanya on 42nd Street (1994),Drama
+608,1106,3.5764785,4,short_head,,
+608,1144,3.5733435,5,short_head,"Line King: The Al Hirschfeld Story, The (1996)",Documentary
+609,2395,4.0846453,1,short_head,Rushmore (1998),Comedy|Drama
+609,2158,3.9699497,2,long_tail,,
+609,334,4.0779796,3,short_head,Vanya on 42nd Street (1994),Drama
+609,1106,4.072152,4,short_head,,
+609,3503,3.945243,5,long_tail,Solaris (Solyaris) (1972),Drama|Mystery|Sci-Fi

@@ -1,0 +1,3 @@
+Diversity enabled: True
+Popularity regularization strength: 0.7
+Number of recommendations per user: 5

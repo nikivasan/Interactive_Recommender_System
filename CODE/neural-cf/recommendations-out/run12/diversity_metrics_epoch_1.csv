@@ -1,0 +1,2 @@
+user_coverage,item_coverage,normalized_entropy,gini_coefficient,unique_item_percentage,avg_overlap_ratio,users_with_unique_recs,item_concentration,epoch
+1.0,0.00195392842451666,0.615261769107767,1.0350810589891466,0.47368421052631576,0.8829976580793506,0.0,0.19672131147540983,1

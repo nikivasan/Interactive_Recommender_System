@@ -1,0 +1,65 @@
+/* File: assets/custom-switch.css */
+
+.custom-switch .form-check-input:checked {
+    background-color: #90b6f8 !important;  /* Cyan */
+    border-color: #90b6f8 !important;
+}
+
+#about-icon {
+    color: rgb(247, 207, 70); /* Set initial color */
+    transition: color 0.3s ease; /* Smooth color transition */
+    font-size: 20px; /* Increase the font size */
+    padding: 0; /* Remove all padding */
+}
+
+#graph-tooltip {
+    white-space: pre-wrap;
+}
+
+.dropdown-up .Select-menu-outer {
+    bottom: 100% !important;
+    top: auto !important;
+    margin-bottom: 4px; 
+}
+
+
+[data-bs-theme="dark"] .dropdown-theme .Select-control {
+    background-color: #2a2a2a;
+    color: #f8f9fa;
+    border-color: #444;
+}
+
+[data-bs-theme="light"] .dropdown-theme .Select-control {
+    background-color: #fff;
+    color: #000;
+    border-color: #ced4da;
+}
+
+
+[data-bs-theme="dark"] .dropdown-theme .Select-menu {
+    background-color: #2a2a2a;
+    color: #f8f9fa;
+}
+
+[data-bs-theme="light"] .dropdown-theme .Select-menu {
+    background-color: #fff;
+    color: #000;
+}
+
+
+[data-bs-theme="dark"] .dropdown-theme .Select-option {
+    background-color: #2a2a2a;
+    color: #f8f9fa;
+}
+
+[data-bs-theme="dark"] .dropdown-theme .Select-option.is-focused {
+    background-color: #3a3a3a;
+}
+
+[data-bs-theme="light"] .dropdown-theme .Select-option.is-focused {
+    background-color: #e9ecef;
+}
+
+[data-bs-theme="dark"] .dropdown-theme .Select-value-label {
+    color: #ffffff !important;
+}

@@ -1,0 +1,8 @@
+dash
+dash_ag_grid
+dash_bootstrap_components
+dash_cytoscape
+numpy
+pandas
+scipy
+sys
